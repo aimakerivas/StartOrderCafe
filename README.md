@@ -12,6 +12,8 @@ PartII :
 Ｐart III:
 修改Connect to MySQL DB 帳號密碼
 =>修改DbConnection.java 帳號密碼
+user="xxxxxx";
+password="xxxxyyyy"
 
 Part IV:
 Import Test Data (member.csv,porder.csv) to tables(member,porder)
