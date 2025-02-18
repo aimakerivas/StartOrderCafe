@@ -1,8 +1,12 @@
+H1 咖啡點餐系統-Ｊava課程教學練習<br>
+H2 Project Name: StartOrderCafe:<br>
+H2 前置準備<br>
+H2 學習重點<br>
+
 > 咖啡點餐系統-Ｊava課程教學練習<br>
 >> Project Name: StartOrderCafe:<br>
 >> 前置準備<br>
 >> 學習重點<br>
-
 
 前置準備
 Part I: Download Project File
