@@ -1,7 +1,7 @@
 ## 咖啡點餐系統-Ｊava課程教學練習  <br>
 ### 前置準備  <br>
 ### 學習重點 Design Pattern <br>
-|MVC|Dao|Lambda|ForEach|List||
+|MVC|Dao|匿名函數|Lambda|ForEach|List|
 |:--|:--:|:--:|:--:|:--:|--:|
 |JDBC|DriverManager|Connection|PreparedStatement|ResultSet||
 |Class|Object|Instance|Attribute|Construct|Method|
@@ -10,18 +10,11 @@
 |Injection|Time|Thread|Syncronize|Seriziable||
 |iOFile|OutputFile|InputFile|OutputStream|InputStream||
 |Boxing|UnBoxing|toString|HashCode|Annotation||
-|WindowBuilder|JSwing|AWT||||
-|JFrame|JPanel|Jscroll|JGrid|JTable||
-|Report|PDF|CSV|PPT|Word Doc|JFreeChart|
-
-* MVC  <br>
-* Dao  <br>
-* JDBC
-* Lambda 與 匿名函數
-* Regrex  <br>
-* iOFile Access  <br>
-* ForEach
-* Injection  <br>
+|WindowBuilder|JSwing|AWT|JFrame|JConentPanel|JPanel|
+|Jscroll|JGrid|JTable|Layout|BoardLayout|GridLayout|
+|Regex|JTextFill|JTextArea|JButton|JLabel|Image|
+|Print|Report|PDF|CSV|PPT|Word Doc||
+|JFreeChart||||||
 
 > 咖啡點餐系統-Ｊava課程教學練習<br>
 >> Project Name: StartOrderCafe:<br>
