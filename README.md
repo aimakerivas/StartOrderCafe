@@ -88,9 +88,11 @@ Import Test Data (member.csv,porder.csv) to tables(member,porder)
 
 
 
-待完成
-1.點餐後,訂單出現在JTable後,JTable取值null判斷=>除錯中(有Exception)
-先以(user,0,0,0,0,0,0,0,0,0,0,0)填入Porder Table 
-
-2.列印待完成
+#### 待完成
++ 1.列印待完成
++ 2.Report待完成 (訂單/發票/會員歷史查詢)
++ 3.BI Chart待完成(訂單分析/銷售分析)
++ 4.New Add Employee/Product Tables/Models/Dao/DaoImpl/Service..
++ 5.Create New Views for Reports
++ 6.新增多角色登入UI
 
