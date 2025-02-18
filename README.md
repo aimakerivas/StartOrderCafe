@@ -3,7 +3,7 @@
 + 藉由Java Application 程式撰寫(使用Eclipse IDE),  <br>
 + 導入Design Pattern/MVC/DAO/UML及Iterative型態設計開發,  <br>
 + 熟習物件導向/資料處理/資料庫存取/流程控制/多工/錯誤訊息攔截/UI及相關元件操作  <br>
-+ 並使用GitHub Desktop 上傳至GitHub  <br>
++ 並使用GitHub Desktop 上傳專案至GitHub  <br>
 #### 學習重點  <br>
 + Design Pattern: MVC | DAO | FlowChart | UML | Iterative Development  <br>
 + 資料處理與轉型(Boxing/UnBoxing) | 運算子 | 流程控制 | if-else | Switch | ForEach  <br>
