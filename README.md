@@ -2,8 +2,8 @@
 ### 前置準備  <br>
 ### 學習重點 Design Pattern <br>
 |MVC|Dao|Lambda|ForEach|List||
-|JDBC|DriverManager|Connection|PreparedStatement|ResultSet||
 |:--|:--:|:--:|:--:|:--:|--:|
+|JDBC|DriverManager|Connection|PreparedStatement|ResultSet||
 |Class|Object|Instance|Attribute|Construct|Method|
 |Extends|Abstract|Interface|Implements|getter|setter|
 |Static|Final|Public|Private|Protected|Default|
