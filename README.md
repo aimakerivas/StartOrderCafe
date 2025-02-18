@@ -1,7 +1,14 @@
-# StartOrderCafe  <br>
 ## 咖啡點餐系統-Ｊava課程教學練習  <br>
-* 前置準備  <br>
-* 學習重點  <br>
+= 前置準備  <br>
+= 學習重點  <br>
+* MVC  <br>
+* Dao  <br>
+* JDBC
+* Lambda 與 匿名函數
+* Regrex  <br>
+* iOFile Access  <br>
+* ForEach
+* Injection  <br>
 
 > 咖啡點餐系統-Ｊava課程教學練習<br>
 >> Project Name: StartOrderCafe:<br>
