@@ -5,12 +5,14 @@
 + 熟習物件導向/資料處理/資料庫存取/流程控制/多工/錯誤訊息攔截/UI及相關元件操作  <br>
 + 並使用GitHub Desktop 上傳專案至GitHub  <br>
 #### 學習重點  <br>
-+ Design Pattern: MVC | DAO | FlowChart | UML | Iterative Development  <br>
-+ 資料處理與轉型(Boxing/UnBoxing) | 運算子 | 流程控制 | if-else | Switch | ForEach  <br>
-+ List | Stream | Collections |IO處理 | 多工處理 | Annotation | Exception Handle  <br>
-+ 物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection | toString | DateTime  <br>
-+ WindowBuilder UI元件設計與處理 | JFrame | JContentPanel | JPanel | GridLayout | JTable | Event  <br>
-+ JDBC | Connection | DriverManager | PreparedStatement | ResultSet | Class.forName | SQL  <br>
+|Design Pattern|MVC|DAO|FlowChart|UML| <br>
+|:--|:--:|:--:|:--:|:--:|--:|
+|資料處理與轉型(Boxing/UnBoxing) | 運算子 | 流程控制 | if-else | Switch | ForEach|Iterative  <br>
+|List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
+|物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|
+|多工處理|toString | DateTime|Event|SQL||  <br>
+|WindowBuilder UI元件設計 | JFrame | JContentPanel | JPanel | GridLayout | JTable |  <br>
+|JDBC | Connection | DriverManager | PreparedStatement | ResultSet | Class.forName|  <br>
 #### 專案說明文件  <br>
 <HR>
 
