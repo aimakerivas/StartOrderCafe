@@ -7,11 +7,11 @@
 #### 學習重點  <br>
 |Design Pattern|MVC|DAO|FlowChart|UML| <br>
 |:--|:--:|:--:|:--:|:--:|--:|
-|資料處理與轉型(Boxing/UnBoxing) | 運算子 | 流程控制 | if-else | Switch | ForEach|Iterative  <br>
+|資料處理與轉型(Boxing/UnBoxing)| 運算子 | 流程控制 | if-else | Switch | ForEach|Iterative|  <br>
 |List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
 |物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|
 |多工處理|toString | DateTime|Event|SQL||  <br>
-|WindowBuilder UI元件設計 | JFrame | JContentPanel | JPanel | GridLayout | JTable |  <br>
+|WindowBuilder UI| JFrame | JContentPanel | JPanel | GridLayout | JTable |  <br>
 |JDBC | Connection | DriverManager | PreparedStatement | ResultSet | Class.forName|  <br>
 #### 專案說明文件  <br>
 <HR>
