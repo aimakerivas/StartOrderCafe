@@ -1,6 +1,6 @@
 ## 咖啡點餐系統-Ｊava課程教學練習  <br>
-= 前置準備  <br>
-= 學習重點 Design Pattern <br>
+### 前置準備  <br>
+### 學習重點 Design Pattern <br>
 |MVC|Dao|Lambda|ForEach|List||
 |JDBC|DriverManager|Connection|PreparedStatement|ResultSet||
 |:--|:--:|:--:|:--:|:--:|--:|
@@ -9,8 +9,8 @@
 |Static|Final|Public|Private|Protected|Default|
 |Injection|Time|Thread|Syncronize|Seriziable||
 |iOFile|OutputFile|InputFile|OutputStream|InputStream||
-|Boxing|UnBoxing|toString|HashCode|Annotation|
-= UI:  <br>
+|Boxing|UnBoxing|toString|HashCode|Annotation|  <br>
+ UI:  <br>
 |WindowBuilder|JSwing|AWT|||
 |:--|:--:|:--:|:--:|:--:|--:|
 |JFrame|JPanel|Jscroll|JGrid|JTable|
