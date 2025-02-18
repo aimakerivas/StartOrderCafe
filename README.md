@@ -9,11 +9,9 @@
 |Static|Final|Public|Private|Protected|Default|
 |Injection|Time|Thread|Syncronize|Seriziable||
 |iOFile|OutputFile|InputFile|OutputStream|InputStream||
-|Boxing|UnBoxing|toString|HashCode|Annotation|  <br>
- UI:  <br>
-|WindowBuilder|JSwing|AWT|||
-|:--|:--:|:--:|:--:|:--:|--:|
-|JFrame|JPanel|Jscroll|JGrid|JTable|
+|Boxing|UnBoxing|toString|HashCode|Annotation||
+|WindowBuilder|JSwing|AWT||||
+|JFrame|JPanel|Jscroll|JGrid|JTable||
 |Report|PDF|CSV|PPT|Word Doc|JFreeChart|
 
 * MVC  <br>
