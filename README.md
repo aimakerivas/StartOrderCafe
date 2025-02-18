@@ -1,6 +1,8 @@
-# StartOrderCafe
+# 咖啡點餐系統-Ｊava課程教學練習
+## Project Name: StartOrderCafe:
+## 前置準備
+## 學習重點
 
-咖啡點餐系統-課程參考版
 
 前置準備
 Part I: Download Project File
