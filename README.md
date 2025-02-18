@@ -1,19 +1,36 @@
-# 咖啡點餐系統-Ｊava課程教學練習  <br>
-### 前置準備  <br>
-### 學習重點  <br>
-*Design Pattern*  <br>
-*物件導向*  <br>
-*流程控制*  <br>
-*資料處理*  <br>
-*iO處理*  <br>
-*多工處理*  <br>
-*UI元件處理*  <br>
-*Exception Handle*  <br>
-*Event*  <br>
+## 咖啡點餐系統-Ｊava課程教學練習  <br>
+#### 1.前置準備 <br>
++ 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具
++ 下載/安裝 MySQl JDBC JConnect to MySQL DB
++ 下載/安裝 WindowBuilder as Java/Application/UI(Swing)
 
-### 參考資訊  <br>
+#### 2.系統功能 <br>
++ 登入/註冊作業 (Regrex/Captcha/CookieFile)
++ 訂單作業 (Grid選單/JTable/結帳/收現/找零)
++ 後台管理 (CRUD)
 
+#### 3.學習重點 <br>
+* Design Pattern | MVC | DAO | UML  <br>
+* 物件導向 | 流程控制 | 資料處理 | Lambda | Exception Handle  <br>
+* IO處理 | 多工處理   <br>
+* UI元件設計與處理 | Event   <br>
 
+#### Appendix: A.參考資訊  <br>
++ Java SE 8 API Web Site : Package Reference
++ W3School : SQL Reference
++ 鳥哥
++ Wikipedia Search: UML/DesignPattern
+
+#### Appendix: B.相關工具下載安裝  <br>
++ MySQL v8.0.41下載/安裝
++ MySQL WorkBench v8.0.33 下載/安裝
++ MySQL JDBC Driver Connection 下載/安裝
++ Eclipse Version: 2024-12 (4.34.0)
++ Eclipse WindowBuilder
+* Create GitHub   <br>
+* GitHub Desktop 下載/安裝   <br>
+
+<HR>
 ## 前置準備  <br>
 ## 學習重點 Design Pattern <br>
 |Ｄesgn Pattern|MVC|Dao|匿名函數/Lambda|ForEach|List|
