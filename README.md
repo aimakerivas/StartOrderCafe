@@ -1,7 +1,7 @@
 # 咖啡點餐系統-Ｊava課程教學練習
-## Project Name: StartOrderCafe:
-## 前置準備
-## 學習重點
+## Project Name: StartOrderCafe: <BR>
+## 前置準備 <BR>
+## 學習重點 <BR>
 
 
 前置準備
