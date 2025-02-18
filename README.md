@@ -1,8 +1,8 @@
 ## 咖啡點餐系統-Ｊava課程教學練習  <br>
-> Project Name: StartOrderCafe:<br>
->> 摘要:藉由Java Application 程式撰寫,瞭解Design Pattern/MVC/DAO,
->> 並熟習物件導向/資料處理與轉型/流程控制/資料庫存取/多工/錯誤訊息攔截與設計
->> 及其他:Swing/Event/Annotion/DateTime/toString/clock..<br>
+> 摘要:  <br>
+>> 藉由Java Application 程式撰寫,導入Design Pattern:MVC/DAO設計開發,
+>> 熟習物件導向/資料處理與轉型/資料庫存取/流程控制/多工/錯誤訊息攔截/UI(Swing)
+>> 及相關元件使用(Injection/List/Stream/Event/Annotion/DateTime/toString/clock..)  <br>
 
 #### 1.前置準備 <br>
 + 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具
