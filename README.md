@@ -13,7 +13,6 @@
 + JDBC | Connection | DriverManager | PreparedStatement | ResultSet | Class.forName | SQL  <br>
 #### 專案說明文件  <br>
 <HR>
-
 #### 1.專案前置準備  <br>
 + 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具
 + 下載/安裝 WindowBuilder as Java/Application/UI(Swing)
