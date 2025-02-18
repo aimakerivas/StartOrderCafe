@@ -2,7 +2,7 @@
 = 前置準備  <br>
 = 學習重點  <br>
 |1|2|3|4|5|
-:--:--:--:--:--:
+|:--|:--:|:--:|:--:|--:|
 |MVC|Dao|Lambda|ForEach|JDBC|
 |Boxing|UnBoxing|Extends|Implements|Injection|
 |toString|iOFile|Regrex|Report||
