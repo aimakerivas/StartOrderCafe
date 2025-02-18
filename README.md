@@ -1,10 +1,14 @@
 ## 咖啡點餐系統-Ｊava課程教學練習  <br>
 = 前置準備  <br>
-= 學習重點  <br>
-|MVC|Dao|Lambda|ForEach|JDBC|
-|:--|:--:|:--:|:--:|--:|
-|Boxing|UnBoxing|Extends|Implements|Injection|
-|toString|iOFile|Regrex|Report||
+= 學習重點 Design Pattern <br>
+|MVC|Dao|Lambda|ForEach|List|JDBC|
+|:--|:--:|:--:|:--:|:--:|--:|
+|Class|Object|Instance|Attribute|Construct|Method|
+|Extends|Abstract|Interface|Implements|getter|setter|
+|Static|Final|Public|Private|Protected|Default|
+
+|Boxing|UnBoxing|Extends|Implements|Scope|Injection|
+|toString|iOFile|Regrex|Report|Annotation|Time|Thread|Syncronize|
 |WindowBuilder|JSwing|AWT|||
 * MVC  <br>
 * Dao  <br>
