@@ -1,7 +1,22 @@
-## 咖啡點餐系統-Ｊava課程教學練習  <br>
+# 咖啡點餐系統-Ｊava課程教學練習  <br>
 ### 前置準備  <br>
-### 學習重點 Design Pattern <br>
-|MVC|Dao|匿名函數|Lambda|ForEach|List|
+### 學習重點  <br>
+*Design Pattern*  <br>
+*物件導向*  <br>
+*流程控制*  <br>
+*資料處理*  <br>
+*iO處理*  <br>
+*多工處理*  <br>
+*UI元件處理*  <br>
+*Exception Handle*  <br>
+*Event*  <br>
+
+### 參考資訊  <br>
+
+
+## 前置準備  <br>
+## 學習重點 Design Pattern <br>
+|Ｄesgn Pattern|MVC|Dao|匿名函數/Lambda|ForEach|List|
 |:--|:--:|:--:|:--:|:--:|--:|
 |JDBC|DriverManager|Connection|PreparedStatement|ResultSet||
 |Class|Object|Instance|Attribute|Construct|Method|
@@ -9,7 +24,7 @@
 |Static|Final|Public|Private|Protected|Default|
 |Injection|Time|Thread|Syncronize|Seriziable||
 |iOFile|OutputFile|InputFile|OutputStream|InputStream||
-|Boxing|UnBoxing|toString|HashCode|Annotation||
+|Boxing|UnBoxing|toString|HashCode|Annotation|Ｅ素Ｈㄍㄠ|
 |WindowBuilder|JSwing|AWT|JFrame|JConentPanel|JPanel|
 |Jscroll|JGrid|JTable|Layout|BoardLayout|GridLayout|
 |Regex|JTextFill|JTextArea|JButton|JLabel|Image|
