@@ -1,12 +1,33 @@
 ### 咖啡點餐系統 - Java課程教學練習  <br>
-#### 課程目標說明:  <br>
+- [簡介](####1.簡介)  <br>
+- [安裝](####2.下載/安裝)  <br>
+- [使用方法](####3.使用方法)  <br>
+- [學習重點](####4.學習重點)  <br>
+- [Appendix: 參考資訊](####Appendix:A.參考資訊)  <br>
+- [Appendix: 相關工具](Appendix:B.相關工具下載安裝)  <br>
+<HR>
+
+#### 1.簡介,課程目標說明:  <br>
 + 藉由Java Application 程式撰寫(使用Eclipse IDE),  <br>
 + 導入Design Pattern/MVC/DAO/UML及Iterative型態設計開發,  <br>
 + 熟習物件導向/資料處理/資料庫存取/流程控制/多工/錯誤訊息攔截/UI及相關元件操作  <br>
 + 並使用GitHub Desktop 上傳專案至GitHub  <br>
-#### 學習重點  <br>
+#### 1-2.系統功能需求說明  <br>
++ 登入/註冊作業 (Regrex/Captcha/CookieFile)  <br>
++ 訂單作業 (Grid選單/JTable/結帳/收現/找零)  <br>
++ 後台管理 (CRUD)  <br>
+#### 1-3.專案目錄結構說明  <br>
+<HR>
+#### 2.下載/安裝  <br>
++ 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具  <br>
++ 下載/安裝 WindowBuilder as Java/Application/UI(Swing)  <br>
++ 下載/安裝 MySQl JDBC JConnect to Eclipse/Project/buildpath  <br>
++ 下載/安裝 GitHub Desktop 
+
+#### 3.使用方法  <br>
+#### 4.學習重點  <br>
 |Design Pattern|MVC|DAO|FlowChart|UML| <br>
-|:--|:--:|:--:|:--:|:--:|--:|
+|:--|:--:|:--:|:--:|:--:|--:|  <br>
 |資料處理與轉型(Boxing/UnBoxing)| 運算子 | 流程控制 | if-else | Switch | ForEach|Iterative|  <br>
 |List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
 |物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|
@@ -16,26 +37,13 @@
 #### 專案說明文件  <br>
 <HR>
 
-#### 1.專案前置準備  <br>
-+ 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具
-+ 下載/安裝 WindowBuilder as Java/Application/UI(Swing)
-+ 下載/安裝 MySQl JDBC JConnect to Eclipse/Project/buildpath
-+ 下載/安裝 GitHub Desktop 
-
-#### 2.系統功能需求說明  <br>
-+ 登入/註冊作業 (Regrex/Captcha/CookieFile)  <br>
-+ 訂單作業 (Grid選單/JTable/結帳/收現/找零)  <br>
-+ 後台管理 (CRUD)  <br>
-
-#### 3.專案目錄結構說明  <br>
-
-#### Appendix: A.參考資訊  <br>
+#### Appendix:A.參考資訊  <br>
 + [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
 + [SQL Syntex Reference](https://www.w3schools.com/)  <br>
 + [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)  <br>
 + [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 
-#### Appendix: B.相關工具下載安裝  <br>
+#### Appendix:B.相關工具下載安裝  <br>
 +[Java 11.0.24 下載/安裝](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
 + [[MySQL v8.0.41下載/安裝](https://dev.mysql.com/downloads/mysql/8.0.html)]  <br>
 + [MySQL WorkBench v8.0.33 下載/安裝](https://dev.mysql.com/downloads/workbench/) <br>
