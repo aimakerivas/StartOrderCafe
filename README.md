@@ -71,16 +71,6 @@
 |HashCode|Annotation|Event||||  <br>
 <HR>
 
-|Ｄesgn Pattern|MVC|Dao|匿名函數/Lambda|ForEach|List|
-|:--|:--:|:--:|:--:|:--:|--:|
-
-
-
-|Injection||
-
-|Boxing|UnBoxing|t
-
-
 #### 附錄  <br>
 ##### A.專案說明文件  <br>
 ##### B.參考資訊  <br>
