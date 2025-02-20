@@ -10,7 +10,7 @@
   + [專案說明文件](#a專案說明文件--)  <br>
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
-  + [xxx](#dxxx--)  <br>
+
 <HR>
 
 #### 1.簡介:  <br>
@@ -103,8 +103,6 @@
 + [Create GitHub Account](https://github.com/) <br>
 + [GitHub Desktop 下載/安裝](https://desktop.github.com/download/)  <br>
 + [免費圖庫](https://www.iconarchive.com/)  <br>
-
-# D.xxx  <br>
 
 <HR>
 
