@@ -3,7 +3,7 @@
   - [1-1.課程目標說明](####1-1.課程目標說明)  <br>
   - [1-2.系統功能需求說明](####1-2.系統功能需求說明)  <br>
   - [1-3.專案目錄結構說明](####1-3.專案目錄結構說明)  <br>
-- [安裝](####2.下載/安裝)  
+- [安裝](#### 2.下載/安裝)  
 - [使用方法](####3.使用方法)  <br>
 - [學習重點](####4.學習重點)  <br>
 - [Appendix:A.參考資訊](####Appendix:A.參考資訊)  <br>
@@ -21,6 +21,17 @@
 + 訂單作業 (Grid選單/JTable/結帳/收現/找零)  <br>
 + 後台管理 (CRUD)  <br>
 #### 1-3.專案目錄結構說明  <br>
++ Table_Import_Files (測試資料表)  <br>
++ jar (可執行轉案JAR檔)  <br>
++ sql (專案中相關SQL檔)  <br>
++ src (程式碼存放區)  <br>
+  + controller (LoginUI/RegisterUI/OrderUI)  <br>
+  + service (called by controllerUI+BizHandle)  <br>
+  + dao (DAO Interface)  <br>
+    +impl (DAO Implement)  <br>
+  + model (Data Model:Reference DB Schema / Table)  <br>
+  + util (DbConnection)  <br>
++ READEME.md (專案說明文件)  <br>
 <HR>
 #### 2.下載/安裝  <br>
 + 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具  <br>
