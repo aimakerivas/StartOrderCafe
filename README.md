@@ -10,7 +10,7 @@
   + [專案說明文件](#a專案說明文件--)  <br>
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
-+ [待完成](#待完成--)  <br>
+  + [Project Next](#待完成--)  <br>
 <HR>
 
 #### 1.簡介:  <br>
@@ -63,7 +63,7 @@
   + =>修改DbConnection.java 帳號密碼  <br>
     + user="xxxxxx"  <br>
     + password="xxxxyyyy"  <br>
-#### 4.學習重點  <br>
+#### 4.學習單元  <br>
 |Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration         |Maven/pom.xml   |
 |:--             |:--:        |:--:         |:--:          |:--:              |--:             | 
 |資料處理與轉型    |運算子       |流程控制       |if-else       |Switch            |ForEach         | <br> 
