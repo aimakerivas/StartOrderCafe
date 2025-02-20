@@ -47,13 +47,13 @@
 + 下載 Project File  <br>
 + 開啟 MySQL WorkBench  (Create Schema / Import Data)  <br>
   + 1.Login
-  + 1.Create Database Schema: iVAS_StartOrder_Cafe  <br>
-  + 2.匯入Table/Data (import *.csv)
+  + 2.Create Database Schema: iVAS_StartOrder_Cafe  <br>
+  + 3.匯入Table/Data (import *.csv)
     + 點選iVAS_StartOrder_Cafe ＝> 按右鍵 ＝> import Table => 逐一點選*.csv 匯入(參考Table_import_Files)  <br>
       + import table: member   (from table_member_export.csv/ table_porder_export.csv)
       + import時留意,password 資料型態為Text
       + import之後,設定id Index: PK/NN/AI 
-  + 3.Refresh
+  + 4.Refresh
     + 點選iVAS_StartOrder_Cafe ＝> 按右鍵 =>Refresh  <br>
 + 開啟 Eclipse => 匯入專案  <br>
   + =>修改DbConnection.java 帳號密碼  <br>
@@ -109,7 +109,9 @@
 + 2.Report待完成 (訂單/發票/會員歷史查詢)
 + 3.BI Chart待完成(訂單分析/銷售分析)
 + 4.New Add Tables
-  + Employee/Product Tables/Models/Dao/DaoImpl/Service..
-+ 5.Create New Views for Reports
-+ 6.新增多角色登入UI
+  + Employee
+  + Product 
++ 5.Create Model/Dao/DaoImpl/Service..
++ 6.Create New Views for Reports
++ 7.新增多角色登入UI
 
