@@ -28,7 +28,7 @@
 #### 4.學習重點  <br>
 |Design Pattern|MVC|DAO|FlowChart|UML| <br>
 |:--|:--:|:--:|:--:|:--:|--:|  <br>
-|資料處理與轉型(Boxing/UnBoxing)| 運算子 | 流程控制 | if-else | Switch | ForEach|Iterative|  <br>
+|資料處理與轉型(Boxing/UnBoxing)| 運算子 | 流程控制 | if-else | Switch | ForEach| <br>
 |List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
 |物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|
 |多工處理|toString | DateTime|Event|SQL||  <br>
@@ -44,7 +44,7 @@
 + [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 
 #### Appendix:B.相關工具下載安裝  <br>
-+[Java 11.0.24 下載/安裝](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
++ [Java 11.0.24 下載/安裝](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
 + [[MySQL v8.0.41下載/安裝](https://dev.mysql.com/downloads/mysql/8.0.html)]  <br>
 + [MySQL WorkBench v8.0.33 下載/安裝](https://dev.mysql.com/downloads/workbench/) <br>
 + [MySQL JDBC Connector 下載/安裝](https://downloads.mysql.com/archives/c-j/)  <br>
