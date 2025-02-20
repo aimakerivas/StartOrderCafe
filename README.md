@@ -84,8 +84,8 @@
 <HR>
 
 #### 附錄  <br>
-##### A.專案說明文件  <br>
-##### B.參考資訊  <br>
+# A.專案說明文件  <br>
+# B.參考資訊  <br>
 + [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
 + [SQL Syntex Reference](https://www.w3schools.com/)  <br>
 + [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)   <br>
