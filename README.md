@@ -10,7 +10,6 @@
   + [專案說明文件](#a專案說明文件--)  <br>
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
-  + [Next](#d待完成--)  <br>
   
 <HR>
 
@@ -109,17 +108,17 @@
 
 <HR>
 
-### d.待完成
-+ 1.列印待完成
-+ 2.Report待完成 (訂單/發票/會員歷史查詢)
-+ 3.BI Chart待完成(訂單分析/銷售分析)
-+ 4.New Add Tables
-  + Employee
-  + Product 
-+ 5.Create Model/Dao/DaoImpl/Service..
-+ 6.Create New Views for Reports
-+ 7.新增多角色登入UI
-+ 8.新增Git版控功能
-+ 9.CI/CD導入
-+ 10.上傳雲主機
+### d.待完成  <br>
++ 1.列印待完成  <br>
++ 2.Report待完成 (訂單/發票/會員歷史查詢)  <br>
++ 3.BI Chart待完成(訂單分析/銷售分析)  <br>
++ 4.New Add Tables  <br>
+  + Employee  <br>
+  + Product  <br>
++ 5.Create Model/Dao/DaoImpl/Service..  <br>
++ 6.Create New Views for Reports  <br>
++ 7.新增多角色登入UI  <br>
++ 8.新增Git版控功能  <br>
++ 9.CI/CD導入  <br>
++ 10.上傳雲主機  <br>
 
