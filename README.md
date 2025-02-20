@@ -34,6 +34,7 @@
   + util (DbConnection)  <br>
 + READEME.md (專案說明文件)  <br>
 <HR>
+
 #### 2.下載/安裝  <br>
 + 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具  <br>
 + 下載/安裝 WindowBuilder as Java/Application/UI(Swing)  <br>
@@ -41,22 +42,28 @@
 + 下載/安裝 GitHub Desktop 
 
 #### 3.使用方法  <br>
++ 開啟 Eclipse => 匯入專案
++ 開啟 MySQL WorkBench
+  + 1.create Schema: iVAS_StartOrder_Cafe
+  + 2.點選iVAS_StartOrder_Cafe ＝> 按右鍵 ＝> import Table => 逐一點選*.csv 匯入(參考Table_import_Files)
+  + 3.點選iVAS_StartOrder_Cafe ＝> 按右鍵 =>Refresh
 #### 4.學習重點  <br>
 |Design Pattern|MVC|DAO|FlowChart|UML|  <br>
 |:--|:--:|:--:|:--:|:--:|--:| 
-|資料處理與轉型(Boxing/UnBoxing)| 運算子 | 流程控制 | if-else | Switch | ForEach|  <br>
+|資料處理與轉型| 運算子 | 流程控制 | if-else | Switch | ForEach|  <br>
 |List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
 |物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|  <br>
-|多工處理|toString | DateTime|Event|SQL||  <br>
+|Boxing|多工處理|toString | DateTime|Event|SQL|  <br>
 |WindowBuilder UI| JFrame | JContentPanel | JPanel | GridLayout | JTable |  <br>
 |JDBC | Connection | DriverManager | PreparedStatement | ResultSet | Class.forName|  <br>
 #### 專案說明文件  <br>
 <HR>
-#### 附錄 <br>
+
+#### 附錄  <br>
 ##### A.參考資訊  <br>
 + [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
 + [SQL Syntex Reference](https://www.w3schools.com/)  <br>
-+ [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)  <br>
++ [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)   <br>
 + [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 
 ##### B.相關工具下載安裝  <br>
