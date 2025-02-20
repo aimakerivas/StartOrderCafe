@@ -15,10 +15,12 @@
 
 #### 1.簡介:  <br>
 #### 1-1.課程目標說明:  <br>
-+ 藉由撰寫Java Application 程式(IDE開發工具: Eclipse),  <br>
-+ 導入Design Pattern/MVC/DAO/UML及Iterative型態設計開發,  <br>
-+ 熟習物件導向/資料處理/資料庫存取/流程控制/多工/錯誤訊息攔截/UI及相關元件操作  <br>
++ 藉由撰寫Java Application 程式(IDE開發工具: Eclipse/Maven),  <br>
++ 導入Design Pattern/MVC/DAO/UML,  <br>
++ 開發學習採迭代型態(Iterative)反覆修正/增添功能改版,  <br>
++ 過程中熟習相關技術單元:物件導向/資料處理/資料庫存取/流程控制/IO/多工/錯誤訊息攔截/UI/報表及相關元件操作  <br>
 + 並使用GitHub Desktop 上傳專案至GitHub  <br>
++ 同時學習Markdown語法  <br>
 #### 1-2.系統功能需求說明  <br>
 + 登入/註冊作業 (Regrex/Captcha/CookieFile)  <br>
 + 訂單作業 (Grid選單/JTable/結帳/收現/找零)  <br>
@@ -116,4 +118,7 @@
 + 5.Create Model/Dao/DaoImpl/Service..
 + 6.Create New Views for Reports
 + 7.新增多角色登入UI
++ 8.新增Git版控功能
++ 9.CI/CD導入
++ 10.上傳雲主機
 
