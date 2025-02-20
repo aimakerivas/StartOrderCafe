@@ -36,17 +36,29 @@
 <HR>
 
 #### 2.下載/安裝  <br>
-+ 下載/安裝 MySQl/MySQL WorkBench/Eclipse開發工具  <br>
++ 下載/安裝 Eclipse開發工具  <br>
++ 下載/安裝 MySQl(8.0.42)  <br>
++ 下載/安裝 ＭySQL WorkBench(8.0.33) + 設定帳號密碼 <br>
 + 下載/安裝 WindowBuilder as Java/Application/UI(Swing)  <br>
 + 下載/安裝 MySQl JDBC JConnect to Eclipse/Project/buildpath  <br>
-+ 下載/安裝 GitHub Desktop 
++ 下載/安裝 GitHub Desktop  <br>
 
 #### 3.使用方法  <br>
-+ 開啟 Eclipse => 匯入專案
-+ 開啟 MySQL WorkBench
-  + 1.create Schema: iVAS_StartOrder_Cafe
-  + 2.點選iVAS_StartOrder_Cafe ＝> 按右鍵 ＝> import Table => 逐一點選*.csv 匯入(參考Table_import_Files)
-  + 3.點選iVAS_StartOrder_Cafe ＝> 按右鍵 =>Refresh
++ 下載 Project File  <br>
++ 開啟 MySQL WorkBench  (Create Schema / Import Data)  <br>
+  + 1.Login
+  + 1.Create Database Schema: iVAS_StartOrder_Cafe  <br>
+  + 2.匯入Table/Data (import *.csv)
+    + 點選iVAS_StartOrder_Cafe ＝> 按右鍵 ＝> import Table => 逐一點選*.csv 匯入(參考Table_import_Files)  <br>
+      + import table: member   (from table_member_export.csv/ table_porder_export.csv)
+      + import時留意,password 資料型態為Text
+      + import之後,設定id Index: PK/NN/AI 
+  + 3.Refresh
+    + 點選iVAS_StartOrder_Cafe ＝> 按右鍵 =>Refresh  <br>
++ 開啟 Eclipse => 匯入專案  <br>
+  + =>修改DbConnection.java 帳號密碼  <br>
+    + user="xxxxxx"  <br>
+    + password="xxxxyyyy"  <br>
 #### 4.學習重點  <br>
 |Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration         |Maven/pom.xml   |
 |:--             |:--:        |:--:         |:--:          |:--:              |--:             | 
@@ -91,37 +103,6 @@
 + [免費圖庫](https://www.iconarchive.com/)  <br>
 
 <HR>
-
-## Memo
-### 前置準備  <br>
-### 學習重點 Design Pattern <br>
-
-
-前置準備
-Part I: Download Project File
-
-PartII : 
-下載/安裝 MySQL(8.0.42)/WorkBench(8.0.33)
-設定WorkBench 帳號密碼
-
-Ｐart III:
-修改Connect to MySQL DB 帳號密碼
-=>修改DbConnection.java 帳號密碼
-user="xxxxxx";
-password="xxxxyyyy"
-
-Part IV:
-Import Test Data (member.csv,porder.csv) to tables(member,porder)
-
-1.Login to MySQL WorkBench
-2.Create Database Schema: iVAS_StartOrder_Cafe
-3.import table: member   (from table_member_export.csv)
-- import時留意,password 資料型態為Text
-- import之後,設定id Index: PK/NN/AI
-4.import table: porder   (from table_porder_export.csv)
-- import之後,設定id Index: PK/NN/AI
-
-
 
 ### 待完成
 + 1.列印待完成
