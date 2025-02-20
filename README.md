@@ -28,7 +28,7 @@
   + controller (LoginUI/RegisterUI/OrderUI)  <br>
   + service (called by controllerUI+BizHandle)  <br>
   + dao (DAO Interface)  <br>
-    +impl (DAO Implement)  <br>
+    + impl (DAO Implement)  <br>
   + model (Data Model:Reference DB Schema / Table)  <br>
   + util (DbConnection)  <br>
 + READEME.md (專案說明文件)  <br>
