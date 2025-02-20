@@ -10,7 +10,7 @@
   + [專案說明文件](#a專案說明文件--)  <br>
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
-  + [Ｍaven自動下載/第3方JAR,pom.xml設定參數(by ChatGPT查詢)](https://chatgpt.com/)  <br>
+  + [Ｍaven自動下載 第3方JAR](#dＭaven自動下載--)  <br>
 <HR>
 
 #### 1.簡介:  <br>
