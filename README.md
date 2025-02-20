@@ -48,8 +48,8 @@
   + 2.點選iVAS_StartOrder_Cafe ＝> 按右鍵 ＝> import Table => 逐一點選*.csv 匯入(參考Table_import_Files)
   + 3.點選iVAS_StartOrder_Cafe ＝> 按右鍵 =>Refresh
 #### 4.學習重點  <br>
-|Design Pattern|MVC|DAO|FlowChart|UML|  <br>
-|:--|:--:|:--:|:--:|:--:|--:| 
+|Design Pattern|MVC |DAO |FlowChart|UML |   |
+|:--           |:--:|:--:|:--:     |:--:|--:| 
 |資料處理與轉型| 運算子 | 流程控制 | if-else | Switch | ForEach|  <br>
 |List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
 |物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|  <br>
