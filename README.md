@@ -15,7 +15,7 @@
 
 #### 1.簡介:  <br>
 #### 1-1.課程目標說明:  <br>
-+ 藉由Java Application 程式撰寫(使用Eclipse IDE),  <br>
++ 藉由撰寫Java Application 程式(IDE開發工具: Eclipse),  <br>
 + 導入Design Pattern/MVC/DAO/UML及Iterative型態設計開發,  <br>
 + 熟習物件導向/資料處理/資料庫存取/流程控制/多工/錯誤訊息攔截/UI及相關元件操作  <br>
 + 並使用GitHub Desktop 上傳專案至GitHub  <br>
