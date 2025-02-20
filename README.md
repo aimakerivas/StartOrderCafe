@@ -48,25 +48,48 @@
   + 2.點選iVAS_StartOrder_Cafe ＝> 按右鍵 ＝> import Table => 逐一點選*.csv 匯入(參考Table_import_Files)
   + 3.點選iVAS_StartOrder_Cafe ＝> 按右鍵 =>Refresh
 #### 4.學習重點  <br>
-|Design Pattern|MVC   |DAO        |FlowChart|UML       |                |
-|:--           |:--:  |:--:       |:--:     |:--:      |--:             | 
-|資料處理與轉型  |運算子 |流程控制     |if-else  |Switch    |ForEach         |  <br>
-|List          |Stream|Collections|IO處理    |Annotation|Exception Handle|  <br>
-|物件導向 | Static | Final | Scope | 匿名函數＆Lambda | Object Injection|  <br>
-|Boxing|多工處理|toString | DateTime|Event|SQL|  <br>
-|WindowBuilder UI| JFrame | JContentPanel | JPanel | GridLayout | JTable |  <br>
-|JDBC | Connection | DriverManager | PreparedStatement | ResultSet | Class.forName|  <br>
-#### 專案說明文件  <br>
+|Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration         |Maven/pom.xml   |
+|:--             |:--:        |:--:         |:--:          |:--:              |--:             | 
+|資料處理與轉型    |運算子       |流程控制       |if-else       |Switch            |ForEach         |  <br>
+|List            |Stream      |Collections  |IO處理         |Annotation        |Exception Handle|  <br>
+|物件導向         |Static      |Final         |Scope         ||Object Injection |                |  <br>
+|物件導向         |Object      |Instance      |UML Diagram   |                  |                |  <br>
+|Class          |Extends      |Abstracts     |Interface     |Implements        |                |  <br>
+|多工處理        |Thread       |Run           |Start          |Syncronize       |Time            |  <br>
+|Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter     |toString        |  <br>
+|Static         |Final        |Public        |Private       |Protected         |Default         |  <br>
+|Array           |List         |HashMap     |Collection     |Set               |Directory       |  <br>
+|Boxing          |UnBoxing     |多工處理      |toString      |LocalDateTime      |Event           |  <br>
+|SQL             |Schema       |Export      |import         |join               |                |  <br>
+|WindowBuilder UI|JSwing       |AWT          |JFrame        |JContentPanel      |JPanel          |  <br>
+|JLayout         |JGridLayout  |JBoaderLayout |JScroll      |                   |                |  <br>
+|Regex           |JTextFill    |JTextArea     |JButton      |JLabel             |Image           |  <br>
+|JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement |ResultSet       |  <br>
+|iOFile          |OutputFile   |InputFile    |OutputStream  |InputStream       |Seriaziable     |  <br>
+|print           |PDF          |CSV          |Excel         |Word               |PPT             |  <br>
+|JFreeChart      |Bar          |Pi           |              |                   |                |  <br>
+|HashCode|Annotation|Event||||  <br>
 <HR>
 
+|Ｄesgn Pattern|MVC|Dao|匿名函數/Lambda|ForEach|List|
+|:--|:--:|:--:|:--:|:--:|--:|
+
+
+
+|Injection||
+
+|Boxing|UnBoxing|t
+
+
 #### 附錄  <br>
-##### A.參考資訊  <br>
+##### A.專案說明文件  <br>
+##### B.參考資訊  <br>
 + [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
 + [SQL Syntex Reference](https://www.w3schools.com/)  <br>
 + [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)   <br>
 + [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 
-##### B.相關工具下載安裝  <br>
+##### C.相關工具下載安裝  <br>
 + [Java 11.0.24 下載/安裝](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
 + [[MySQL v8.0.41下載/安裝](https://dev.mysql.com/downloads/mysql/8.0.html)]  <br>
 + [MySQL WorkBench v8.0.33 下載/安裝](https://dev.mysql.com/downloads/workbench/) <br>
@@ -78,22 +101,11 @@
 + [免費圖庫](https://www.iconarchive.com/)  <br>
 
 <HR>
-## 前置準備  <br>
-## 學習重點 Design Pattern <br>
-|Ｄesgn Pattern|MVC|Dao|匿名函數/Lambda|ForEach|List|
-|:--|:--:|:--:|:--:|:--:|--:|
-|JDBC|DriverManager|Connection|PreparedStatement|ResultSet||
-|Class|Object|Instance|Attribute|Construct|Method|
-|Extends|Abstract|Interface|Implements|getter|setter|
-|Static|Final|Public|Private|Protected|Default|
-|Injection|Time|Thread|Syncronize|Seriziable||
-|iOFile|OutputFile|InputFile|OutputStream|InputStream||
-|Boxing|UnBoxing|toString|HashCode|Annotation|Event|
-|WindowBuilder|JSwing|AWT|JFrame|JConentPanel|JPanel|
-|Jscroll|JGrid|JTable|Layout|BoardLayout|GridLayout|
-|Regex|JTextFill|JTextArea|JButton|JLabel|Image|
-|Print|Report|PDF|CSV|PPT|Word Doc||
-|JFreeChart||||||
+
+## Memo
+### 前置準備  <br>
+### 學習重點 Design Pattern <br>
+
 
 前置準備
 Part I: Download Project File
@@ -121,11 +133,12 @@ Import Test Data (member.csv,porder.csv) to tables(member,porder)
 
 
 
-#### 待完成
+### 待完成
 + 1.列印待完成
 + 2.Report待完成 (訂單/發票/會員歷史查詢)
 + 3.BI Chart待完成(訂單分析/銷售分析)
-+ 4.New Add Employee/Product Tables/Models/Dao/DaoImpl/Service..
++ 4.New Add Tables
+  + Employee/Product Tables/Models/Dao/DaoImpl/Service..
 + 5.Create New Views for Reports
 + 6.新增多角色登入UI
 
