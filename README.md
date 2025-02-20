@@ -10,7 +10,7 @@
   + [專案說明文件](#a專案說明文件--)  <br>
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
-  + [Ｍaven自動下載 第3方JAR](#dＭaven自動下載--)  <br>
+  + [Ｍaven自動下載第3方JAR檔設定](#dＭaven自動下載第3方JAR檔設定--)  <br>
 <HR>
 
 #### 1.簡介:  <br>
@@ -106,7 +106,7 @@
 + [Create GitHub Account](https://github.com/) <br>
 + [GitHub Desktop 下載/安裝](https://desktop.github.com/download/)  <br>
 + [免費圖庫(iconarchive)](https://www.iconarchive.com/)  <br>
-##### D.相關工具下載安裝  <br>
+##### D.Ｍaven自動下載第3方JAR設定  <br>
 + [Ｍaven自動下載 第3方JAR,pom.xml設定參數/ChatGPT查詢](https://chatgpt.com/)  <br>
   + MySQL Connector/J
   + JFreeChart
