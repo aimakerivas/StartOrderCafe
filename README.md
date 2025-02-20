@@ -41,7 +41,7 @@
 
 #### 3.使用方法  <br>
 #### 4.學習重點  <br>
-|Design Pattern|MVC|DAO|FlowChart|UML|Iterative|  <br>
+|Design Pattern|MVC|DAO|FlowChart|UML|  <br>
 |:--|:--:|:--:|:--:|:--:|--:| 
 |資料處理與轉型(Boxing/UnBoxing)| 運算子 | 流程控制 | if-else | Switch | ForEach|  <br>
 |List | Stream | Collections |IO處理 | Annotation | Exception Handle|  <br>
