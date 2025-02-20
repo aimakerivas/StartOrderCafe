@@ -52,12 +52,11 @@
 |:--             |:--:        |:--:         |:--:          |:--:              |--:             | 
 |資料處理與轉型    |運算子       |流程控制       |if-else       |Switch            |ForEach         |  <br>
 |List            |Stream      |Collections  |IO處理         |Annotation        |Exception Handle|  <br>
-|物件導向         |Static      |Final         |Scope         ||Object Injection |                |  <br>
-|物件導向         |Object      |Instance      |UML Diagram   |                  |                |  <br>
-|Class          |Extends      |Abstracts     |Interface     |Implements        |                |  <br>
+|物件導向         |Object      |Instance      |UML Diagram   |Object Injection  |                |  <br>
+|Class          |Extends      |Abstracts     |Interface     |Implements        | Scope          |  <br>
+|Static         |Final        |Public        |Private       |Protected         |Default         |  <br>
 |多工處理        |Thread       |Run           |Start          |Syncronize       |Time            |  <br>
 |Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter     |toString        |  <br>
-|Static         |Final        |Public        |Private       |Protected         |Default         |  <br>
 |Array           |List         |HashMap     |Collection     |Set               |Directory       |  <br>
 |Boxing          |UnBoxing     |多工處理      |toString      |LocalDateTime      |Event           |  <br>
 |SQL             |Schema       |Export      |import         |join               |                |  <br>
