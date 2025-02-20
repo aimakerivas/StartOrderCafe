@@ -106,6 +106,10 @@
 + [Create GitHub Account](https://github.com/) <br>
 + [GitHub Desktop 下載/安裝](https://desktop.github.com/download/)  <br>
 + [免費圖庫(iconarchive)](https://www.iconarchive.com/)  <br>
++ [Ｍaven自動下載 第3方JAR,pom.xml設定參數/ChatGPT查詢](https://chatgpt.com/)  <br>
+  + MySQL Connector/J
+  + JFreeChart
+  + Log4J  + 
 
 <HR>
 
