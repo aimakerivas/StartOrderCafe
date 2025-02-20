@@ -64,27 +64,28 @@
     + user="xxxxxx"  <br>
     + password="xxxxyyyy"  <br>
 #### 4.學習單元  <br>
-|Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration         |Maven/pom.xml   |
-|:--             |:--:        |:--:         |:--:          |:--:              |--:             | 
-|資料處理與轉型    |運算子       |流程控制       |if-else       |Switch            |ForEach         | <br> 
-|List            |Stream      |Collections  |IO處理         |Annotation        |                |  <br>
-|Exception Handle|try/catch   |throws|      |              |                   |               |  <br>
-|物件導向         |Object      |Instance      |UML Diagram   |Object Injection  |                |  <br>
-|Class          |Extends      |Abstracts     |Interface     |Implements        | Scope          |  <br>
-|Static         |Final        |Public        |Private       |Protected         |Default         |  <br>
-|多工處理        |Thread       |Run           |Start          |Syncronize       |Time             |  <br>
-|Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter     |toString        |  <br>
+|Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration          |Maven/pom.xml    |
+|:--             |:--:        |:--:         |:--:          |:--:                |--:             | 
+|資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
+|List            |Stream      |Collections  |IO處理         |Annotation         |                 |  <br>
+|Exception Handle|try/catch   |throws|      |              |                    |                |  <br>
+|物件導向         |Object      |Instance      |UML Diagram   |Object Injection   |                |  <br>
+|Class          |Extends      |Abstracts     |Interface     |Implements         |Scope           |  <br>
+|Static         |Final        |Public        |Private       |Protected          |Default         |  <br>
+|多工處理        |Thread       |Run           |Start          |Syncronize        |Time            |  <br>
+|Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter      |toString        |  <br>
 |Array           |List         |HashMap      |Collection     |Set               |Directory       |  <br>
 |Boxing          |UnBoxing     |多工處理      |toString       |LocalDateTime      |Event          |  <br>
 |SQL             |Schema       |Export       |import         |join              |                |  <br>
-|WindowBuilder UI|JSwing       |AWT          |Regrex         |JFrame            |Window          |  <br>
-|JContentPanel   |JPanel       |JLayout      |JGridLayout    |JBoaderLayout     |JScroll         |  <br>
-|JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image           |  <br>
 |JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement |ResultSet       |  <br>
 |iOFile          |OutputFile   |InputFile    |OutputStream   |InputStream       |Seriaziable     |  <br>
+|WindowBuilder UI|JSwing       |AWT          |Regrex         |JFrame            |Window          |  <br>
+|JContentPanel   |JPanel       |JLayout      |JGridLayout    |JBoaderLayout     |JScroll         |  <br>
+|BorderLayout    |FlowLayout   |GridLayout   |JGridLayout    |JBoaderLayout     |JScroll         |  <br>
+|JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image           |  <br>
 |print           |PDF          |CSV          |Excel          |Word               |PPT            |  <br>
 |JFreeChart      |Bar          |Pi           |               |                   |               |  <br>
-|HashCode|Annotation|Event||||  <br>
+|HashCode        |Annotation   |Event        |               |                   |               |  <br>
 <HR>
 
 #### 附錄  <br>
@@ -108,7 +109,7 @@
 
 <HR>
 
-### d.待完成  <br>
+### 待完成  <br>
 + 1.列印待完成  <br>
 + 2.Report待完成 (訂單/發票/會員歷史查詢)  <br>
 + 3.BI Chart待完成(訂單分析/銷售分析)  <br>
