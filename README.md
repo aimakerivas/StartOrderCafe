@@ -6,8 +6,8 @@
 + [安裝](####2.下載/安裝)  
 + [使用方法](####3.使用方法)  <br>
 + [學習重點](####4.學習重點)  <br>
-+ [Appendix:A.參考資訊](####Appendix:A.參考資訊)  <br>
-+ [Appendix:B.相關工具下載安裝](Appendix:B.相關工具下載安裝)  <br>
++ [Appendix:A.參考資訊](####AppendixA.參考資訊)  <br>
++ [Appendix:B.相關工具下載安裝](AppendixB.相關工具下載安裝)  <br>
 <HR>
 
 #### 1.簡介:  <br>
@@ -52,13 +52,13 @@
 #### 專案說明文件  <br>
 <HR>
 
-#### Appendix:A.參考資訊  <br>
+#### AppendixA.參考資訊  <br>
 + [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
 + [SQL Syntex Reference](https://www.w3schools.com/)  <br>
 + [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)  <br>
 + [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 
-#### Appendix:B.相關工具下載安裝  <br>
+#### AppendixB.相關工具下載安裝  <br>
 + [Java 11.0.24 下載/安裝](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
 + [[MySQL v8.0.41下載/安裝](https://dev.mysql.com/downloads/mysql/8.0.html)]  <br>
 + [MySQL WorkBench v8.0.33 下載/安裝](https://dev.mysql.com/downloads/workbench/) <br>
@@ -106,10 +106,10 @@ Import Test Data (member.csv,porder.csv) to tables(member,porder)
 1.Login to MySQL WorkBench
 2.Create Database Schema: iVAS_StartOrder_Cafe
 3.import table: member   (from table_member_export.csv)
--import時留意,password 資料型態為Text
--import之後,設定id Index: PK/NN/AI
+- import時留意,password 資料型態為Text
+- import之後,設定id Index: PK/NN/AI
 4.import table: porder   (from table_porder_export.csv)
--import之後,設定id Index: PK/NN/AI
+- import之後,設定id Index: PK/NN/AI
 
 
 
