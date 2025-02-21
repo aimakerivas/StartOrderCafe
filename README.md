@@ -116,7 +116,7 @@
 
 ##### E.ChatGPT程式開發輔助  <br>
 |No.|技術主題|技術單元     |CodeGenType      |CodePrompt                  |ChatGpt說明|ChatGPT範例|Notes|
-|:--|:--:   |:--:        |:--:            |:--:                        |:--:       |:--:      |--:  | 
+|:--|:--:   |:--:        |:--:            |:--                         |:--:       |:--:      |--:  | 
 |001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     | 
 |   |Dao    |Dao         |完整範例          |provide Java Dao example.|xxxx       |xxxx      |     | 
 |   |Dao    |Data        |Schema Export範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
@@ -133,8 +133,6 @@
 |   |密碼隱碼  |JPasswordTextField     |範例 |provide Java password hidden example||||
 |   |個資保護  |password Encrypt驗正機制|範例 |provide Java password hidden with encrypt validation example||||
 
-|資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
-|List            |Stream      |Collections  |IO處理         |Annotation         |                 |  <br>
 
 <HR>
 
