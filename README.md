@@ -115,6 +115,7 @@
   + Log4J   
 
 ##### E.ChatGPT程式開發輔助範例  <br>
+
 |No.|技術主題|技術單元     |CodeGenType      |CodePromptExample           |ChatGpt說明|ChatGPT範例|Notes|
 |:--|:--:   |:--:        |:--:            |:--                         |:--:       |:--:      |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?      |xxxx       |xxxx      |     |  <br>
@@ -141,6 +142,7 @@
 |009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||
 |010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
+
 
 <HR>
 
