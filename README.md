@@ -114,11 +114,12 @@
   + JFreeChart
   + Log4J   
 
-##### Ｅ.ChatGPT程式開發輔助  <br>
+##### E.ChatGPT程式開發輔助  <br>
 |Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration          |Maven/pom.xml    |
 |:--             |:--:        |:--:         |:--:          |:--:                |--:             | 
 |資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
 |List            |Stream      |Collections  |IO處理         |Annotation         |                 |  <br>
+
 <HR>
 
 ### 待完成  <br>
