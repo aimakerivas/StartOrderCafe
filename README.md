@@ -11,7 +11,7 @@
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
   + [Ｍaven自動下載第3方JAR檔設定](#dＭaven自動下載第3方JAR設定--)  <br>
-  + [ChatGPT程式開發輔助](#eChatGPT輔助Java單元教學/CodePrompt/程式範例--)  <br>
+  + [ChatGPT程式開發輔助](#eChatGPT輔助Java單元教學CodePrompt程式範例--)  <br>
 
 <HR>
 
