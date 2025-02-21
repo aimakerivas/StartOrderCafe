@@ -115,8 +115,24 @@
   + Log4J   
 
 ##### E.ChatGPT程式開發輔助  <br>
-|Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration          |Maven/pom.xml    |
-|:--             |:--:        |:--:         |:--:          |:--:                |--:             | 
+|No.|技術主題|技術單元     |CodeGenType      |CodePrompt                  |ChatGpt說明|ChatGPT範例|Notes|
+|:--|:--:   |:--:        |:--:            |:--:                        |:--:       |:--:      |--:  | 
+|001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     | 
+|   |Dao    |Dao         |完整範例          |provide Java Dao example.|xxxx       |xxxx      |     | 
+|   |Dao    |Data        |Schema Export範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
+|   |Dao    |DaoModel    |範例             |provide Java Dao model example. (reference csv data)        |||| 
+|   |Dao    |DaoInterface|範例             |provide Java Dao interface example.(reference Dao model)    ||||
+|   |Dao    |DaoImpl     |範例             |provide Java Dao implement example.(reference Dao interface)||||
+|002|MVC    |Model       |簡介             |What's MVC?||||
+|   |MVC    |Model       |範例             |provide MVC example||||
+|003|UI/JFrame|Login/Register UI|範例|provide Java example of LoginUI/RegisterUI/Regrex/Captcha/passEncrypt||||
+|   |UI/JFrame|LoginUI   |範例|provide Java example of LoginUI/LoginSucessUI/LoginErrorUI/Regrex/Captcha/passEncrypt||||
+|   |UI/JFrame|RegisterUI|範例|provide Java example of RegisterUI&SucessUI&ErrorUI/Regrex/Captcha/passEncrypt||||
+|   |驗證碼    |Captcha                 |範例 |provide captcha example(include regen function when press recycle-button) ||||
+|   |表示式檢驗 |Regrex               |範例 |provide JTextField regrex example||||
+|   |密碼隱碼  |JPasswordTextField     |範例 |provide Java password hidden example||||
+|   |個資保護  |password Encrypt驗正機制|範例 |provide Java password hidden with encrypt validation example||||
+
 |資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
 |List            |Stream      |Collections  |IO處理         |Annotation         |                 |  <br>
 
