@@ -135,12 +135,7 @@
 |   |個資保護  |password Encrypt驗正機制|範例 |provide Java example of Login/password hidden with encrypt validation||||
 |004|Collections|List    |範例 |provide Java example of  List example||||
 |005|Collections|HashMap |範例 |provide Java example of HashMap example||||
-|006|Swing |JTable       |範例 |provide Java example of JTable example||||
-|007|Swing |print        |範例 |provide Java example of Swing/JFrame/Print||||
-|008|Report|Excel        |範例 |provide Java example of excel report example||||
-|009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||
-|010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||
-|011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||
+
 
 <HR>
 
