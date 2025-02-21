@@ -11,7 +11,7 @@
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
   + [Ｍaven自動下載第3方JAR檔設定](#dＭaven自動下載第3方JAR設定--)  <br>
-  + [ChatGPT程式開發輔助](#echatgpt輔助Java單元教學CodePrompt程式範例--)  <br>
+  + [ChatGPT程式開發輔助](#echatgpt程式開發輔助)  <br>
 
 <HR>
 
@@ -114,7 +114,7 @@
   + JFreeChart
   + Log4J   
 
-##### Ｅ.ChatGPT輔助Java單元教學CodePrompt程式範例  <br>
+##### Ｅ.ChatGPT程式開發輔助  <br>
 |Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration          |Maven/pom.xml    |
 |:--             |:--:        |:--:         |:--:          |:--:                |--:             | 
 |資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
