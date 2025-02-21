@@ -118,23 +118,6 @@
 |No.|技術主題|技術單元     |CodeGenType      |CodePromptExample           |ChatGpt說明|ChatGPT範例|Notes|
 |:--|:--:   |:--:        |:--:            |:--                         |:--:       |:--:      |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?      |xxxx       |xxxx      |     | 
-|001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     | 
-|   |Dao    |Dao         |完整範例          |provide Java Dao example.   |xxxx       |xxxx      |     | 
-|   |Dao    |Data<br>Schema Export<br>|範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
-|   |Dao    |DaoModel    |範例             |provide Java Dao model example. (reference csv data)        |||| 
-|   |Dao    |DaoInterface|範例             |provide Java Dao interface example.(reference Dao model)    ||||
-|   |Dao    |DaoImpl     |範例             |provide Java Dao implement example.(reference Dao interface)||||
-|002|MVC    |Model       |簡介             |What's MVC?||||
-|   |MVC    |Model       |範例             |provide MVC example||||
-|003|UI/JFrame|Login/Register UI|範例|provide Java example of LoginUI/RegisterUI/Regrex/Captcha/passEncrypt||||
-|   |UI/JFrame|LoginUI   |範例|provide Java example of LoginUI/LoginSucessUI/LoginErrorUI/Regrex/Captcha/passEncrypt||||
-|   |UI/JFrame|RegisterUI|範例 |provide Java example of RegisterUI&SucessUI&ErrorUI/Regrex/Captcha/passEncrypt||||
-|   |驗證碼    |Captcha   |範例 |provide Java example of captcha(include regen function when press recycle-button) ||||
-|   |表示式檢驗 |Regrex    |範例 |provide Java example of JTextField regrex||||
-|   |密碼隱碼  |JPasswordTextField     |範例 |provide Java example of Login/password hidden||||
-|   |個資保護  |password Encrypt驗正機制|範例 |provide Java example of Login/password hidden with encrypt validation||||
-|004|Collections|List    |範例 |provide Java example of  List example||||
-|005|Collections|HashMap |範例 |provide Java example of HashMap example||||
 
 
 <HR>
