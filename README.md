@@ -141,6 +141,7 @@
 |009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||
 |010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||
+
 <HR>
 
 ### 待完成  <br>
