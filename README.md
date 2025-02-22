@@ -113,7 +113,7 @@
   + MySQL Connector/J  <br>
   + JFreeChart  <br>
   + Log4J  <br>
-##### E.ChatGPT程式開發輔助範例  <br>
+##### E.ChatGPT程式開發輔助  <br>
 |No.|技術主題|技術單元     |CodeGenType      |CodePromptExample           |ChatGpt說明|ChatGPT範例|Notes|
 |:--|:--:   |:--:        |:--:            |:--                         |:--:       |:--:      |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?      |xxxx       |xxxx      |     |  <br>
