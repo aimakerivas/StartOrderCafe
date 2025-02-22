@@ -127,20 +127,21 @@
 |   |Dao    |DaoImpl     |範例             |provide Java Dao implement example.(reference Dao interface)||||
 |002|MVC    |Model       |簡介             |What's MVC?||||
 |   |MVC    |Model       |範例             |provide MVC example||||
-|003|UI/JFrame|Login/Register UI|範例|provide Java example of LoginUI/RegisterUI/Regrex/Captcha/passEncrypt||||
-|   |UI/JFrame|LoginUI   |範例|provide Java example of LoginUI/LoginSucessUI/LoginErrorUI/Regrex/Captcha/passEncrypt||||
-|   |UI/JFrame|RegisterUI|範例 |provide Java example of RegisterUI&SucessUI&ErrorUI/Regrex/Captcha/passEncrypt||||
-|   |驗證碼    |Captcha   |範例 |provide Java example of captcha(include regen function when press recycle-button) ||||
-|   |表示式檢驗 |Regrex    |範例 |provide Java example of JTextField regrex||||
-|   |密碼隱碼  |JPasswordTextField     |範例 |provide Java example of Login/password hidden||||
-|   |個資保護  |password Encrypt驗正機制|範例 |provide Java example of Login/password hidden with encrypt validation||||
-|004|Collections|List    |範例 |provide Java example of  List example||||
-|005|Collections|HashMap |範例 |provide Java example of HashMap example||||
-|006|Swing |JTable       |範例 |provide Java example of JTable example||||
-|007|Swing |print        |範例 |provide Java example of Swing/JFrame/Print||||
-|008|Report|Excel        |範例 |provide Java example of excel report example||||
-|009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||
-|010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||
+|003|UI/JFrame|Login/Register UI|範例|provide Java example of LoginUI/RegisterUI/Regrex/Captcha/passEncrypt||||  <br>
+|   |UI/JFrame|LoginUI|範例|provide Java example of LoginUI/LoginSucessUI/LoginErrorUI/Regrex/Captcha/passEncrypt||||  <br>
+|   |UI/JFrame|RegisterUI|範例 |provide Java example of RegisterUI&SucessUI&ErrorUI/Regrex/Captcha/passEncrypt||||  <br>
+|   |驗證碼|Captcha   |範例 |provide Java example of captcha(include regen function when press recycle-button) ||||  <br>
+|   |表示式檢驗 |Regrex    |範例 |provide Java example of JTextField regrex||||  <br>
+|   |密碼隱碼  |JPasswordTextField     |範例 |provide Java example of Login/password hidden||||  <br>
+|   |個資保護  |password Encrypt驗正機制|範例 |provide Java example of Login/password hidden with encrypt validation||||  <br>
+|004|Collections|List    |範例 |provide Java example of  List example||||  <br>
+|005|Collections|HashMap |簡介/範例|about Java HashSet ? and related methods? examples provide||||  <br>
+|005|Collections|HashMap |範例 |provide Java example of HashMap example||||  <br>
+|006|Swing |JTable       |範例 |provide Java example of JTable example||||  <br>
+|007|Swing |print        |範例 |provide Java example of Swing/JFrame/Print||||  <br>
+|008|Report|Excel        |範例 |provide Java example of excel report example||||  <br>
+|009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||  <br>
+|010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||  <br>
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
 
 
