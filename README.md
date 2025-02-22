@@ -11,7 +11,7 @@
   + [參考資訊](#b參考資訊--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
   + [Ｍaven自動下載第3方JAR檔設定](#dＭaven自動下載第3方JAR設定--)  <br>
-  + [ChatGPT程式開發輔助](#eChatGPT程式開發輔助--)  <br>
+  + [ChatGPT程式開發輔助](#eChatGPT程式開發輔助範例--)  <br>
 
 <HR>
 
@@ -113,7 +113,7 @@
   + MySQL Connector/J  <br>
   + JFreeChart  <br>
   + Log4J  <br>
-##### E.ChatGPT程式開發輔助  <br>
+##### E.ChatGPT程式開發輔助範例  <br>
 |No.|技術主題|技術單元     |CodeGenType      |CodePromptExample           |ChatGpt說明|ChatGPT範例|Notes|
 |:--|:--:   |:--:        |:--:            |:--                         |:--:       |:--:      |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?      |xxxx       |xxxx      |     |  <br>
