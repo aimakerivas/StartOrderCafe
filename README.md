@@ -135,8 +135,8 @@
 |   |密碼隱碼  |JPasswordTextField     |範例 |provide Java example of Login/password hidden||||  <br>
 |   |個資保護  |password Encrypt驗正機制|範例 |provide Java example of Login/password hidden with encrypt validation||||  <br>
 |004|Collections|List    |範例 |provide Java example of  List example||||  <br>
-|005|Collections|HashMap |簡介/範例|about Java HashSet ? and related methods? examples provide||||  <br>
-|005|Collections|HashMap |範例 |provide Java example of HashMap example||||  <br>
+|005|Collections|HashMap |簡介/範例|about Java HashSet ? and related methods? examples||||  <br>
+|   |Collections|HashMap |範例 |provide Java example of HashMap example||||  <br>
 |006|Swing |JTable       |範例 |provide Java example of JTable example||||  <br>
 |007|Swing |print        |範例 |provide Java example of Swing/JFrame/Print||||  <br>
 |008|Report|Excel        |範例 |provide Java example of excel report example||||  <br>
