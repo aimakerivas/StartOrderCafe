@@ -115,9 +115,9 @@
   + Log4J  <br>
 
 ##### x.Test Table Format  <br> 
-|No.|技術主題|技術單元     |CodeGenType|
-|:--|:--:   |:--:        |--:|
-|001|Dao    |Dao         |簡介|
+|No.|技術主題|技術單元     |CodeGenType|Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
+|:--|:--:   |:--:        |:--:|:--:                     |:--:                  |:--:                  |--:  | 
+|001|Dao    |Dao         |簡介|  What's ObjectOriented?  |......................|......................|     |  <br>
 
 <HR>
 
