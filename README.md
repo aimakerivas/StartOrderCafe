@@ -114,7 +114,7 @@
   + JFreeChart  <br>
   + Log4J  <br>
 ##### E.ChatGPT程式開發輔助範例  <br>
-|No.|技術主題|技術單元     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結|Notes|
+|No.|技術主題|技術單元     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:   |:--:        |:--:            |:--                     |:--:                  |:--:                |:--  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?  |......................|....................|     |  <br>
 |001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
