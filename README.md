@@ -114,7 +114,7 @@
   + JFreeChart  <br>
   + Log4J  <br>
 ##### E.ChatGPT程式開發輔助範例  <br>
-|No.|技術主題|技術單元     |CodeGenType      |CodePromptExample           |ChatGpt說明|ChatGPT範例|Notes|
+|No.|技術主題|技術單元     |CodeGenType      |Promp Request           |ChatGpt Response<br>說明內容連結|ChatGPT Response<br>說明範例連結|Notes|
 |:--|:--:   |:--:        |:--:            |:--                         |:--:       |:--:      |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?      |xxxx       |xxxx      |     |  <br>
 |001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
@@ -141,7 +141,7 @@
 |009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||  <br>
 |010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||  <br>
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
-|210|授權機制|帳號/角色/功能授權機制|功能/模組|請規劃Java功能依角色授權檢查機制,功能有fun1/fun2/…/fun10,<br>各功能有permission機制,有授權的功能才可以執行,<br>另有功能授權角色及帳號配置角色請提供Java範例||||  <br>
+|210|授權機制|帳號/角色/功能<br>授權機制|功能/模組<br>範例|請規劃Java功能依角色授權檢查機制,功能有fun1/fun2/…/fun10,<br>各功能有permission機制,有授權的功能才可以執行,<br>另有功能授權角色及帳號配置角色請提供Java範例||||  <br>
 
 <HR>
 
