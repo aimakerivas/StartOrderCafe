@@ -115,14 +115,17 @@
   + Log4J  <br>
 
 ##### x.Test Table Format  <br> 
+
+
+##### E.ChatGPT程式開發輔助範例  <br>
+  + 技術單元  <br>
+
 |No.|技術主題|技術單元     |CodeGenType|Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:   |:--:        |:--:|:--:                     |:--:                  |:--:                  |--:  | 
 |001|Dao    |Dao         |簡介|  What's ObjectOriented?  |......................|......................|     |  <br>
 
 <HR>
-
-##### E.ChatGPT程式開發輔助範例  <br>
-  + 技術單元  <br>
+  
 |No.|技術主題|技術單元     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:   |:--:        |:--:            |:--                     |:--:                  |:--:                  |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?  |......................|......................|     |  <br>
