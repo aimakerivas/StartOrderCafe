@@ -118,12 +118,14 @@
 |No.|技術主題|技術單元     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:   |:--:        |:--:            |:--                     |:--:                  |:--:                  |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?  |......................|......................|     |  <br>
-|001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
-|   |Dao    |Dao         |完整範例          |provide Java Dao example.   |xxxx       |xxxx      |     |  <br>
+
 
 
 <HR>
 
+
+|001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
+|   |Dao    |Dao         |完整範例          |provide Java Dao example.   |xxxx       |xxxx      |     |  <br>
 |   |Dao    |Data<br>Schema Export<br>|範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
 |   |Dao    |DaoModel    |範例             |provide Java Dao model example. (reference csv data)        |||| 
 |   |Dao    |DaoInterface|範例             |provide Java Dao interface example.(reference Dao model)    ||||
