@@ -141,9 +141,7 @@
 |009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||  <br>
 |010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||  <br>
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
-|210|JDBC|Class.forName|功能/模組|請規劃Java功能依角色授權檢查機制,功能有fun1/fun2/…/fun10,
-各功能有permission機制,有授權的功能才可以執行,
-另有功能授權角色及帳號配置角色請提供Java範例||||  <br>
+|210|JDBC|Class.forName|功能/模組|請規劃Java功能依角色授權檢查機制,功能有fun1/fun2/…/fun10,<br>各功能有permission機制,有授權的功能才可以執行,<br>另有功能授權角色及帳號配置角色請提供Java範例||||  <br>
 
 <HR>
 
