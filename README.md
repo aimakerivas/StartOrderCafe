@@ -154,6 +154,7 @@
 |No.|主題|模組|功能服務      |CodeGenType|Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:|:--:   |:--:        |:--:|:--:                     |:--:                  |:--:                  |--:  | 
 |901|系統|服務功能模組|完整的角色權限機制|摘要/設計概念/範例|||||  <br>
+|901|系統|服務功能模組|完整的角色權限機制<br>+ Email認證檢核機制<br>忘記密碼/檢核/通知/重置機制<br>|摘要/設計概念/範例|||||  <br>
 
 <HR>
 |No.|主題|模組|功能服務     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
