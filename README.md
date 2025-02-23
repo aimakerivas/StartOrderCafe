@@ -151,11 +151,10 @@
   + 系統服務功能及後台管理  <br>
 
 |No.|主題     |模組      |功能服務              |CodeGenType         |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
-|:--|:--:    |:--:      |:--                 |:--:                |:--:                    |:--:                  |:--:                  |--:  | 
+|:--|:--:    |:--:      |:--                 |:--:                |:--                    |:--:                  |:--:                  |--:  | 
 |9010|系統    |服務功能   |完整的角色身份別登入機制|摘要/設計概念<br>範例  |                        |                      |                      |     |  <br>
 |9010|系統    |服務功能   |完整的角色身份別登入機制|摘要/設計概念<br>範例  |請提供一個完整的 Java Maven Application+ MySQL 的 角色授權機制，<br>包含 功能 (fun1 ~ fun10) 的 TaskPermission 機制，<br>並將 角色 (Role) 和用戶帳號 (UserAccount) 配置到資料庫 (StartOrderCafeDB)。<br>系統設計概念:<br>1. 功能 ：<br>    * 功能 (Function): 例如 fun1 ~ fun10,對應到 TaskPermission<br>    * 權限 (TaskPermission): 定義可執行的功能,每個功能都有相對應的 Permission<br>    * 角色 (Role): 角色包含多個 Permission(包含多個 TaskPermission)<br>
-    * 帳號 (UserAccount): 帳號可擁有一個或多個角色(可擁有一個或多個 Role)<br>    * 授權機制 (AuthorizationService): 驗證帳號是否有執行該功能的權限<br>2. 資料庫 (StartOrderCafeDB)<br>    * Role (角色)<br>    * UserAccount (用戶)<br>    * TaskPermission (功能權限)<br>    * role_task_permissions (角色與權限對應)<br>    * user_roles (用戶與角色對應)<br>
-3. DAO 層 (Database Access Object)<br>    * 建立Dao Interface<br>    * 建立Dao Implements<br>4. DAO 服務層 (面對UI/Controller,DAO層及商業服務邏輯處理)<br>    * 建立Service Dao Interface<br>    * 建立Service Dao Implement<br>5. MVC 設計模式<br>6. JDBC 進行 DB 連線<br>    * Role (角色)<br>    * 提供maven pom.xml 設定MySQL8.0.xx Connect 參數<br>
+    * 帳號 (UserAccount): 帳號可擁有一個或多個角色(可擁有一個或多個 Role)<br>    * 授權機制 (AuthorizationService): 驗證帳號是否有執行該功能的權限<br>2. 資料庫 (StartOrderCafeDB)<br>    * Role (角色)<br>    * UserAccount (用戶)<br>    * TaskPermission (功能權限)<br>    * role_task_permissions (角色與權限對應)<br>    * user_roles (用戶與角色對應)<br>3. DAO 層 (Database Access Object)<br>    * 建立Dao Interface<br>    * 建立Dao Implements<br>4. DAO 服務層 (面對UI/Controller,DAO層及商業服務邏輯處理)<br>    * 建立Service Dao Interface<br>    * 建立Service Dao Implement<br>5. MVC 設計模式<br>6. JDBC 進行 DB 連線<br>    * Role (角色)<br>    * 提供maven pom.xml 設定MySQL8.0.xx Connect 參數<br>
     * 提供util.DbConnect.getDb2()連接至DB Schema:StartOrderCafe<br>    * 提供util.DbConnect.getDb3()連接至DB Schema:TestStartOrderCafe<br>|                      |                      |     |  <br>      
 |9020|系統|服務功能|完整的登入/註冊機制<br>+ Email認證檢核機制<br>+ 忘記密碼/檢核/通知/重置機制<br>|摘要/設計概念/範例|||||  <br>
 |9030|系統|服務功能|完整的訂單機制|摘要/設計概念<br>範例|||||  <br>
