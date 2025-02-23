@@ -120,6 +120,10 @@
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?  |......................|......................|     |  <br>
 |001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
 |   |Dao    |Dao         |完整範例          |provide Java Dao example.   |xxxx       |xxxx      |     |  <br>
+
+
+<HR>
+
 |   |Dao    |Data<br>Schema Export<br>|範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
 |   |Dao    |DaoModel    |範例             |provide Java Dao model example. (reference csv data)        |||| 
 |   |Dao    |DaoInterface|範例             |provide Java Dao interface example.(reference Dao model)    ||||
@@ -142,7 +146,7 @@
 |009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||  <br>
 |010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||  <br>
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
-
+|210|授權機制|帳號/角色/功能<br>授權機制|功能/模組<br>範例|請規劃Java功能依角色授權檢查機制,功能有fun1/fun2/…/fun10,<br>各功能有permission機制,有授權的功能才可以執行,<br>另有功能授權角色及帳號配置角色請提供Java範例||||  <br>
 
 <HR>
 
