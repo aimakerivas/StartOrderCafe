@@ -114,17 +114,8 @@
   + JFreeChart  <br>
   + Log4J  <br>
 
-##### x.Test Table Format  <br> 
-
-
 ##### E.ChatGPT程式開發輔助範例  <br>
   + 技術單元  <br>
-
-|No.|技術主題|技術單元     |CodeGenType|Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
-|:--|:--:   |:--:        |:--:|:--:                     |:--:                  |:--:                  |--:  | 
-|001|Dao    |Dao         |簡介|  What's ObjectOriented?  |......................|......................|     |  <br>
-
-<HR>
   
 |No.|技術主題|技術單元     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:   |:--:        |:--:            |:--                     |:--:                  |:--:                  |--:  | 
@@ -158,6 +149,13 @@
 <HR>
 
   + 技術單元  <br>
+
+  
+|No.|主題|模組|功能服務      |CodeGenType|Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
+|:--|:--:|:--:   |:--:        |:--:|:--:                     |:--:                  |:--:                  |--:  | 
+|901|系統|服務功能模組|完整的角色權限機制|摘要/設計概念/範例|||||  <br>
+
+<HR>
 |No.|主題|模組|功能服務     |CodeGenType      |Promp Request           |ChatGpt<br>說明內容連結|ChatGPT<br>說明範例連結<br>|Notes|
 |:--|:--:|:--:｜:--: |:--:            |:--                     |:--:                  |:--:                  |:--  | 
 |901|系統|服務功能模組|完整的角色權限機制|摘要/設計概念/範例|||||  <br>
