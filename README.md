@@ -174,14 +174,15 @@
   + Product  <br>
   + PorderDetail  <br>
 + 2.Create Model/Dao/DaoImpl/Service..(已完成)  <br>
-+ 3.編碼規則 <br>
-+ 4.列印待完成  <br>
-+ 5.Report待完成 (訂單/發票/會員歷史查詢)  <br>
-+ 6.BI Chart待完成(訂單分析/銷售分析)  <br>
-+ 7.Create New Views for Reports  <br>
-+ 8.新增多角色登入UI  <br>
++ 3.編碼規則(已完成)  <br>
++ 4.新增多角色登入UI（已開發,整合中)  <br>
++ 5.列印待完成  <br>
++ 6.Report待完成 (訂單/發票/會員歷史查詢)  <br>
++ 7.BI Chart待完成(訂單分析/銷售分析)  <br>
++ 8.Create New Views for Reports  <br>
 + 9.新增Git版控功能  <br>
 + 10.CI/CD導入  <br>
 + 11.上傳雲主機  <br>
 + 12.ChatGPT Prompt 助理(單元主題/需求文件/設計文件/參考文件/操作說明範例 彙整)  <br>
++ 13.UI改版
 
