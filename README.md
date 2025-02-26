@@ -12,7 +12,7 @@
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
   + [Ｍaven自動下載第3方JAR檔設定](#dＭaven自動下載第3方JAR設定--)  <br> 
   + [ChatGPT程式開發輔助](#eChatGPT程式開發輔助範例--)  <br>
-
+  + [待完成](#f待完成)  <br>
 <HR>
 
 #### 1.簡介:  <br>
@@ -166,19 +166,21 @@
 
 <HR>
 
- 
-### 待完成  <br>
-+ 1.列印待完成  <br>
-+ 2.Report待完成 (訂單/發票/會員歷史查詢)  <br>
-+ 3.BI Chart待完成(訂單分析/銷售分析)  <br>
-+ 4.New Add Tables  <br>
+##### F.待完成  <br>
+
++ 1.New Add Tables(已完成)  <br>
   + Employee  <br>
   + Product  <br>
-+ 5.Create Model/Dao/DaoImpl/Service..  <br>
-+ 6.Create New Views for Reports  <br>
-+ 7.新增多角色登入UI  <br>
-+ 8.新增Git版控功能  <br>
-+ 9.CI/CD導入  <br>
-+ 10.上傳雲主機  <br>
-+ 11.ChatGPT Prompt(單元主題/範例 彙整)  <br>
+  + PorderDetail  <br>
++ 2.Create Model/Dao/DaoImpl/Service..(已完成)  <br>
++ 3.編碼規則 <br>
++ 4.列印待完成  <br>
++ 5.Report待完成 (訂單/發票/會員歷史查詢)  <br>
++ 6.BI Chart待完成(訂單分析/銷售分析)  <br>
++ 7.Create New Views for Reports  <br>
++ 8.新增多角色登入UI  <br>
++ 9.新增Git版控功能  <br>
++ 10.CI/CD導入  <br>
++ 11.上傳雲主機  <br>
++ 12.ChatGPT Prompt 助理(單元主題/需求文件/設計文件/參考文件/操作說明範例 彙整)  <br>
 
