@@ -24,8 +24,8 @@
 + 開發學習採迭代型態(Iterative)反覆修正/增添功能改版,  <br>
 + 過程中熟習相關技術單元:物件導向/資料處理/資料庫存取/流程控制/IO/多工/錯誤訊息攔截/UI/報表及相關元件操作  <br>
 + 並使用GitHub Desktop 上傳專案至GitHub  <br>
-+ 同時學習Markdown語法  <br>
-#### 1-2.系統功能需求說明  <br>
++ 同時學習Markdown,SQL語法  <br>
+#### 1-2.系統功能需求說明 : For Mac <br>
 + 登入/註冊作業 (Regrex/Captcha/CookieFile)  <br>
 + 訂單作業 (Grid選單/JTable/結帳/收現/找零)  <br>
 + 後台管理 (CRUD)  <br>
@@ -50,7 +50,6 @@
 + 下載/安裝 WindowBuilder as Java/Application/UI(Swing)  <br>
 + 下載/安裝 MySQl JDBC JConnect to Eclipse/Project/buildpath  <br>
 + 下載/安裝 GitHub Desktop  <br>
-
 #### 3.使用方法  <br>
 + 下載 Project File  <br>
 + 開啟 MySQL WorkBench  (Create Schema / Import Data)  <br>
