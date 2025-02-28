@@ -94,7 +94,7 @@
 
 #### 附錄  <br>
 ##### A.專案說明文件  <br>
-##### MySQL ER Model (Designed by MySQL WorkBench EER(Enhanced Entity-Relationship) Model)
+##### [StartOrderCafe] Database ER Model: Designed by MySQL WorkBench EER(Enhanced Entity-Relationship) Model
 ![image](https://github.com/user-attachments/assets/1d910853-7d5c-4b61-b214-7d08f362e1a9)
 
 ##### B.參考資訊  <br>
