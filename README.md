@@ -45,7 +45,7 @@
 
 #### 2.下載/安裝  <br>
 + 下載/安裝 Eclipse開發工具  <br>
-+ 下載/安裝 MySQl(8.0.42)  <br>
++ 下載/安裝 MySQl(8.0.41)  <br>
 + 下載/安裝 ＭySQL WorkBench(8.0.33) + 設定帳號密碼 <br>
 + 下載/安裝 WindowBuilder as Java/Application/UI(Swing)  <br>
 + 下載/安裝 MySQl JDBC JConnect to Eclipse/Project/buildpath  <br>
