@@ -108,13 +108,13 @@
    + pom.xml更新後,將自動下載MySQL JDBC Connector  + 
 + Create Java DBConnect by JDBC
    + 建立 DBConnect.java (by Eclipse/Java Project)
-+ Create Model
++ Create Model (下層對應ＤataSource存取,上層可提供Data Model/物件注入操作)
    + 開發AutoGenJavaModelFromDB.java (可詢問ChatGPT產生範例)
    + 產生對應DB/Tables
-+ Create DAO 
++ Create DAO  (提供DB/Data結構化專業處理:易維護/管理)
    + Create DaoInterface
    + Create DaoImplement
-+ Create ServiceDao
++ Create ServiceDao: (提供UI及商務功能所需)
 + Create ControllerUI : UI Design by Swing/AWT (for Learning Step)
    + 參考需求流程/UI/作業/報表規格
    + Login/SuccessMsg/ErrorMsg
