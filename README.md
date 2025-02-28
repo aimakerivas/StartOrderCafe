@@ -95,7 +95,7 @@
 ### 附錄  <br>
 #### A.專案說明文件  <br>
 #### DAO/MVC設計概念 (初學者階梯學習)
-＋ Create Database by ER Model: MySQL Workbench
++ Create Database by ER Model: MySQL Workbench
    + 初步分析需求規格,建立Data所需Tables (可詢問ChatGPT使用步驟)
    + Created ER(Entity-Relationship) by MySQL Workbench/EER 
    + 自動建立產生 Schema/Tables/Fields/Index
