@@ -137,13 +137,7 @@
 ##### Create Database ER Model: Designed by MySQL WorkBench EER(Enhanced Entity-Relationship) Model
 ![image](https://github.com/user-attachments/assets/1d910853-7d5c-4b61-b214-7d08f362e1a9)
 
-##### B.參考資訊  <br>
-+ [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
-+ [SQL Syntex Reference](https://www.w3schools.com/)  <br>
-+ [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)   <br>
-+ [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
-
-##### C.相關工具下載安裝  <br>
+##### B.相關工具下載安裝  <br>
 + [Java 11.0.24 下載/安裝](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
 + [[MySQL v8.0.41下載/安裝](https://dev.mysql.com/downloads/mysql/8.0.html)]  <br>
 + [MySQL WorkBench v8.0.33 下載/安裝](https://dev.mysql.com/downloads/workbench/) <br>
@@ -153,15 +147,18 @@
 + [Create GitHub Account](https://github.com/) <br>
 + [GitHub Desktop 下載/安裝](https://desktop.github.com/download/)  <br>
 + [免費圖庫(iconarchive)](https://www.iconarchive.com/)  <br>
-##### D.Ｍaven自動下載第3方JAR設定  <br>
+##### C.Ｍaven自動下載第3方JAR設定  <br>
 + [Ｍaven pom.xml設定參數/可由ChatGPT查詢](https://chatgpt.com/)  <br>
   + MySQL Connector/J  <br>
   + JFreeChart  <br>
   + Log4J  <br>
-
+##### D.參考資訊  <br>
++ [Java SE 8 API Web Site : Package Reference](https://docs.oracle.com/javase/8/docs/api/)  <br>
++ [SQL Syntex Reference](https://www.w3schools.com/)  <br>
++ [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)   <br>
++ [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 ##### E.ChatGPT程式開發輔助範例  <br>
   + 技術單元  <br>
-  
 |No.|技術主題|技術單元     |CodeGenType      |Promp Request                                                  |內容連結|範例連結|Notes|
 |:--|:--:   |:--:        |:--:            |:--------------------------------------------------------------------------|:--:                  |:--:                  |--:  | 
 |000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?                                                   ..|......................|......................|     |  <br>
