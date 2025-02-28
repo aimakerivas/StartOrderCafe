@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fe6039ae-64be-461a-b558-da81314cde59)
 ### 咖啡點餐系統 - Java課程教學練習  <br>
 + [1.簡介](#1簡介--)  <br>
   + [1-1.課程目標說明](#1-1課程目標說明--)  <br>
@@ -186,4 +187,4 @@
 + 12.ChatGPT Prompt 助理(單元主題/需求文件/設計文件/參考文件/操作說明範例 彙整)  <br>
 + 13.UI改版
 
-file:///Users/applab/eclipse-workspace_teacher/StartOrderCafe2/src/main/resources/icon/coffee-icon_xx.jpg![image](https://github.com/user-attachments/assets/fe6039ae-64be-461a-b558-da81314cde59)
+
