@@ -78,8 +78,8 @@
 |多工處理        |Thread       |Run           |Start          |Syncronize        |Time            |  <br>
 |Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter      |toString        |  <br>
 |Array           |List         |HashMap      |Collection     |Set               |Directory       |  <br>
-|Boxing          |UnBoxing     |多工處理      |toString       |LocalDateTime      |Event          |  <br>
-|SQL             |Schema       |Export       |import         |join              |                |  <br>
+|Boxing          |UnBoxing     |Initial      |toString       |LocalDateTime     |Event          |  <br>
+|SQL             |Schema       |Export       |import         |Join Left/Right   |                |  <br>
 |JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement |ResultSet       |  <br>
 |iOFile          |OutputFile   |InputFile    |OutputStream   |InputStream       |Seriaziable     |  <br>
 |WindowBuilder UI|JSwing       |AWT          |Regrex         |JFrame            |Window          |  <br>
@@ -88,7 +88,7 @@
 |JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image           |  <br>
 |print           |PDF          |CSV          |Excel          |Word               |PPT            |  <br>
 |JFreeChart      |Bar          |Pi           |               |                   |               |  <br>
-|HashCode        |Annotation   |Event        |               |                   |               |  <br>
+|HashCode        |Annotation   |@Override    |               |                   |               |  <br>
 <HR>
 
 ### 附錄  <br>
