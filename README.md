@@ -92,9 +92,48 @@
 |HashCode        |Annotation   |Event        |               |                   |               |  <br>
 <HR>
 
-#### 附錄  <br>
-##### A.專案說明文件  <br>
-##### [StartOrderCafe] Database ER Model: Designed by MySQL WorkBench EER(Enhanced Entity-Relationship) Model
+### 附錄  <br>
+#### A.專案說明文件  <br>
+#### DAO/MVC設計概念 (初學者階梯學習)
+＋ Create Database by ER Model: MySQL Workbench
+   + 初步分析需求規格,建立Data所需Tables (可詢問ChatGPT使用步驟)
+   + Created ER(Entity-Relationship) by MySQL Workbench/EER 
+   + 自動建立產生 Schema/Tables/Fields/Index
++ 使用IDE開發工具: Eclipse
+   + 下載/安裝
+   + 建立Java Project 
++ 下載MySQL JDBC Connector for Java (可詢問ChatGPT產生範例)
+   + 更新pom.xml中 MyQL Independancy maven下載參數 (可詢問ChatGPT產生範例)
+   + pom.xml更新後,將自動下載MySQL JDBC Connector  + 
++ Create Java DBConnect by JDBC
+   + 建立 DBConnect.java (by Eclipse/Java Project)
++ Create Model
+   + 開發AutoGenJavaModelFromDB.java (可詢問ChatGPT產生範例)
+   + 產生對應DB/Tables
++ Create DAO 
+   + Create DaoInterface
+   + Create DaoImplement
++ Create ServiceDao
++ Create ControllerUI : UI Design by Swing/AWT (for Learning Step)
+   + 參考需求流程/UI/作業/報表規格
+   + Login/SuccessMsg/ErrorMsg
+   + Register/SuccessMsg/ErrorMsg
+   + OrderUI
+   + ConsoleUI
+     + ConfiguraionUI
+     + ManagementUI
+     + QueryUI/ReportUI
+     + ChatUI
+     + Log/AccessTrackingUI
+     + ExceptionHandleUI
++ Create Java Utilities
+   + DbConnect
+   + AutoGenJavaModelFromDB
+   + IOFileAccess(Write,Read)
+   + CaptchaGenerator
+   + PasswordEncrypt
+   + ClockDateTime 
+##### Create Database ER Model: Designed by MySQL WorkBench EER(Enhanced Entity-Relationship) Model
 ![image](https://github.com/user-attachments/assets/1d910853-7d5c-4b61-b214-7d08f362e1a9)
 
 ##### B.參考資訊  <br>
