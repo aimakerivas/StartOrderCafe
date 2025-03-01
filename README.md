@@ -94,23 +94,24 @@
 ### 附錄  <br>
 #### A.專案說明文件  <br>
 #### DAO/MVC設計概念 (初學者階梯學習)
-+ 初步分析需求規格
-+ Create Database by ER Model: MySQL Workbench
++ 1.初步分析需求規格
++ 2.Create Database by ER Model: MySQL Workbench EER
    + 建立Data所需Tables (可詢問ChatGPT使用步驟)
    + Created ER(Entity-Relationship) by MySQL Workbench/EER 
-   + 自動建立產生 Schema/Tables/Fields/Index
-+ 使用IDE開發工具: Eclipse
++ 3.自動建立產生 Schema/Tables/Fields/Index
+  + ER Diagram => Database => Forward Engineer 自動建立產生DB/Table
++ 4.使用IDE開發工具: Eclipse
    + 下載/安裝
-   + 建立Java Project 
-+ 下載MySQL JDBC Connector for Java (可詢問ChatGPT產生範例)
+   + 建立Maven Project 
++ 5.下載MySQL JDBC Connector for Java (可詢問ChatGPT產生範例)
    + 更新pom.xml中 MyQL Independancy maven下載參數 (可詢問ChatGPT產生範例)
    + pom.xml更新後,將自動下載MySQL JDBC Connector  + 
-+ Create Java DBConnect by JDBC
-   + 建立 DBConnect.java (by Eclipse/Java Project)
-+ Create Model (下層對應ＤataSource存取,上層可提供Data Model/物件注入操作)
++ 5.Create Java DBConnect by JDBC
+   + 建立 util.DBConnect.java (by Eclipse/Java Project)
++ 6.Create Model (下層對應ＤataSource存取,上層可提供Data Model/物件注入操作)
    + 開發AutoGenJavaModelFromDB.java (可詢問ChatGPT產生範例)
    + 產生對應DB/Tables
-+ Create DAO  (提供DB/Data結構化專業處理:易維護/管理)
++ 7.Create DAO  (提供DB/Data結構化專業處理:易維護/管理)
    + Create DaoInterface
    + Create DaoImplement
 + Create ServiceDao: (提供UI及商務功能所需)
