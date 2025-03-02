@@ -106,16 +106,16 @@
 + 5.下載MySQL JDBC Connector for Java (可詢問ChatGPT產生範例)
    + 更新pom.xml中 MyQL Independancy maven下載參數 (可詢問ChatGPT產生範例)
    + pom.xml更新後,將自動下載MySQL JDBC Connector  + 
-+ 5.Create Java DBConnect by JDBC
++ 6.Create Java DBConnect by JDBC
    + 建立 util.DBConnect.java (by Eclipse/Java Project)
-+ 6.Create Model (下層對應ＤataSource存取,上層可提供Data Model/物件注入操作)
++ 7.Create Model (下層對應ＤataSource存取,上層可提供Data Model/物件注入操作)
    + 開發AutoGenJavaModelFromDB.java (可詢問ChatGPT產生範例)
    + 產生對應DB/Tables
-+ 7.Create DAO  (提供DB/Data結構化專業處理:易維護/管理)
++ 8.Create DAO  (提供DB/Data結構化專業處理:易維護/管理)
    + Create DaoInterface
    + Create DaoImplement
-+ Create ServiceDao: (提供UI及商務功能所需)
-+ Create ControllerUI : UI Design by Swing/AWT (for Learning Step)
++ 9.Create ServiceDao: (提供UI及商務功能所需)
++ 10.Create ControllerUI : UI Design by Swing/AWT (for Learning Step)
    + 參考需求流程/UI/作業/報表規格
    + Login/SuccessMsg/ErrorMsg
    + Register/SuccessMsg/ErrorMsg
