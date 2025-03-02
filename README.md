@@ -73,14 +73,15 @@
 |Exception       |try/catch   |throws        |IO處理         |Annotation        |@Override      |  <br>
 |Class           |Object      |Instance      |UML Diagram   |Object Injection  |               |  <br>
 |Extends         |Abstracts    |Interface    |Implements    |Overload          |Serializable   |  <br>
-
-<HR>
-
-
 |Static          |Final        |Public       |Private       |Protected         |Default        |  <br>
 |Attribute       |Construct    |Method       |匿名函數＆Lambda|getter/setter     |toString       |  <br>
 |多工處理         |Thread       |Run          |Start          |Syncronize       |Time            |  <br>
 |SQL             |Schema       |Export/Import|Dump/Restore   |Join Left/Right  |java.sql        |  <br>
+
+<HR>
+
+
+
 |JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement|ResultSet       |  <br>
 |iOFile          |OutputFile   |InputFile    |OutputStream   |InputStream      |cookieFile      |  <br>
 |WindowBuilder(UI)|Swing       |AWT          |Regrex         |Eclipse/Plug-in  |                |  <br>
