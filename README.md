@@ -92,9 +92,9 @@
 <HR>
 
 ### 附錄  <br>
-#### A.專案設計概念說明: MVC/DAO/Maven/O.O./ER/RDB/JDBC/Collections  <br>
-#### DAO/MVC/Marven/JDBC/ER設計概念 (初學者階梯學習)  <br>
-#### 資料處理/HashMap/List/Stream/Model/Injection/ForEach (初學者階梯學習)  <br>
+#### A.專案設計概念說明  <br>
+##### DAO/MVC/Marven/JDBC/ER設計概念 (初學者階梯學習)  <br>
+##### 資料處理/HashMap/List/Stream/Model/Injection/ForEach (初學者階梯學習)  <br>
 + 1.初步分析需求規格
 + 2.Create Database by ER Model: MySQL Workbench EER
    + 建立Data所需Tables (可詢問ChatGPT使用步驟)
