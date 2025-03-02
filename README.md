@@ -67,7 +67,7 @@
 |Design Patterns |物件導向     |MVC           |DAO           |Maven(pom.xml)     |JDBC            |
 |:--             |:--:        |:--:          |:--:          |:--:              |--:             |
 |資料處理與轉型    |運算子       |三元運算子      |Boxing/Unboxing|intParse/valueOf |InitialValues   |  
-|java.lang      |String       |isEquals      |trim           |LocalDateTime    |System          |  <br>
+|java.lang      |String       |isEquals      |toString/HashCode|LocalDateTime  |System          |  <br>
 |Collections    |Array        |List          |ListArray     |Set/HashMap       |Stream          |  <br>
 |流程控制         |if-else     |Switch        |ForEach       |for(;;)            |while/do..while|  <br> 
 |Exception       |try/catch   |throws        |IO處理         |Annotation        |@Override      |  <br>
@@ -85,7 +85,7 @@
 |JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image          |  <br>
 |print           |PDF          |CSV          |Excel          |Word              |PPT            |  <br>
 |JFreeChart      |Bar          |Pi           |Line           |                  |               |  <br>
-|HashCode        |Annotation   |@Override    |               |                  |               |  <br>
+|Annotation      |@Override    |             |               |                  |               |  <br>
 
 <HR>
 
