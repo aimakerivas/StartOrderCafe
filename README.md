@@ -82,16 +82,17 @@
 |WindowBuilder(UI)|Swing       |AWT          |Regrex         |Eclipse/Plug-in  |                |  <br>
 |Window          |JFrame       |JContentPanel|JScroll        |JPanel           |JGridLayout     |  <br>
 |Layout          |BorderLayout |FlowLayout   |JGridLayout    |JBoaderLayout     |JScroll        |  <br>
+|JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image          |  <br>
+|print           |PDF          |CSV          |Excel          |Word              |PPT            |  <br>
+|JFreeChart      |Bar          |Pi           |Line           |                  |               |  <br>
+|HashCode        |Annotation   |@Override    |               |                  |               |  <br>
 
 <HR>
 
 
 
 
-|JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image          |  <br>
-|print           |PDF          |CSV          |Excel          |Word              |PPT            |  <br>
-|JFreeChart      |Bar          |Pi           |Line           |                  |               |  <br>
-|HashCode        |Annotation   |@Override    |               |                  |               |  <br>
+
 
 <HR>
 
