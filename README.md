@@ -194,18 +194,18 @@
 |:--|:--:    |:--:      |:--                 |:--:                |:--                    |:--:                  |--:                  |
 |9011|系統|服務功能|角色身份別登入機制|摘要/設計概念<br>範例|請規劃功能依角色授權檢查機制,有授權的功能才可以執行,另有功能授權角色及帳號配置角色,請提供Java Application範例|||  |<br>
 |9012|系統    |服務功能   |完整的功能/角色/帳號授權機制|摘要/設計概念<br>範例|請提供一個完整的 Java Maven Application+ MySQL 的 角色授權機制，<br>包含 功能 (fun1 ~ fun10) 的 TaskPermission 機制，<br>並將 角色 (Role) 和用戶帳號 (UserAccount) 配置到資料庫 (StartOrderCafeDB)。<br>系統設計概念:<br>1. 功能 ：<br>    * 功能 (Function): 例如 fun1 ~ fun10,對應到 TaskPermission<br>    * 權限 (TaskPermission): 定義可執行的功能,每個功能都有相對應的 Permission<br>    * 角色 (Role): 角色包含多個 Permission(包含多個 TaskPermission)<br>    * 帳號 (UserAccount): 帳號可擁有一個或多個角色(可擁有一個或多個 Role)<br>    * 授權機制 (AuthorizationService): 驗證帳號是否有執行該功能的權限<br>2. 資料庫 (StartOrderCafeDB)<br>    * Role (角色)<br>    * UserAccount (用戶)<br>    * TaskPermission (功能權限)<br>    * role_task_permissions (角色與權限對應)<br>    * user_roles (用戶與角色對應)<br>3. DAO 層 (Database Access Object)<br>    * 建立Dao Interface<br>    * 建立Dao Implements<br>4. DAO 服務層 (面對UI/Controller,DAO層及商業服務邏輯處理)<br>    * 建立Service Dao Interface<br>    * 建立Service Dao Implement<br>5. MVC 設計模式<br>6. JDBC 進行 DB 連線<br>    * Role (角色)<br>    * 提供maven pom.xml 設定MySQL8.0.xx Connect 參數<br>    * 提供util.DbConnect.getDb2()連接至DB Schema:StartOrderCafe<br>    * 提供util.DbConnect.getDb3()連接至DB Schema:TestStartOrderCafe<br>|||  <br>      
-|9020|系統|服務功能|完整的登入/註冊機制<br>+ Email認證檢核機制<br>+ 忘記密碼/檢核/通知/重置機制<br>|摘要/設計概念/範例||||  <br>
-|9030|系統|服務功能|完整的訂單機制|摘要/設計概念<br>範例||||  <br>
-|9100|系統|後台客服查詢|完整的後台客服查詢<br>範例||||  <br>
-|9210|系統|服務管理|完整的產品管理機制|摘要/設計概念<br>範例||||  <br>
-|9220|系統|服務管理|完整的進貨/備料/庫存管理機制|摘要/設計概念<br>範例||||  <br>
-|9230|系統|服務管理|完整的報表機制|摘要/設計概念<br>範例||||  <br>
-|9240|系統|服務管理|完整的圖表分析管理機制|摘要/設計概念<br>範例||||  <br>
-|9300|系統|服務財務管理|完整的財務會科管理機制|摘要/設計概念<br>範例||||  <br>
-|9410|系統|後台OA&M管理|完整的角色權限管理機制|摘要/設計概念<br>範例||||  <br>
-|9420|系統|後台OA&M管理|完整的後台設定管理<br>範例||||  <br>
-|9430|系統|後台OA&M管理|完整的後台監控/告警/管理機制|摘要/設計概念<br>範例||||  <br>
-|9440|系統|後台OA&M管理|ExceptionHandle<br>範例||||  <br>
+|9020|Service|服務功能|完整的登入/註冊機制<br>+ Email認證檢核機制<br>+ 忘記密碼/檢核/通知/重置機制<br>|摘要/設計概念/範例||||  <br>
+|9030|Service|服務功能|完整的訂單機制|摘要/設計概念<br>範例||||  <br>
+|9100|CSS|後台客服查詢|完整的後台客服查詢<br>範例||||  <br>
+|9210|PM|服務管理|完整的產品管理機制|摘要/設計概念<br>範例||||  <br>
+|9220|PM|服務管理|完整的進貨/備料/庫存管理機制|摘要/設計概念<br>範例||||  <br>
+|9230|PM|服務管理|完整的報表機制|摘要/設計概念<br>範例||||  <br>
+|9240|PM|服務管理|完整的圖表分析管理機制|摘要/設計概念<br>範例||||  <br>
+|9300|FA|服務財務管理|完整的財務會科管理機制|摘要/設計概念<br>範例||||  <br>
+|9410|OAM|後台OA&M管理|完整的角色權限管理機制|摘要/設計概念<br>範例||||  <br>
+|9420|OAM|後台OA&M管理|完整的後台設定管理<br>範例||||  <br>
+|9430|OAM|後台OA&M管理|完整的後台監控/告警/管理機制|摘要/設計概念<br>範例||||  <br>
+|9440|OAM|後台OA&M管理|ExceptionHandle<br>範例||||  <br>
 
 <HR>
  
