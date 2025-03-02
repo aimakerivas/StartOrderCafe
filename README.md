@@ -13,6 +13,7 @@
   + [參考資訊](#b參考資訊--)  <br>
   + [ChatGPT程式開發輔助](#eChatGPT程式開發輔助範例--)  <br>
 + [待完成](#f待完成--)  <br>
+
 <HR>
 #### 1.簡介:  <br>
 #### 1-1.課程目標說明:  <br>
@@ -38,8 +39,6 @@
   + model (Data Model:Reference DB Schema / Table)  <br>
   + util (DbConnection)  <br>
 + READEME.md (專案說明文件)  <br>
-<HR>
-
 #### 2.下載/安裝  <br>
 + 下載/安裝 Eclipse開發工具  <br>
 + 下載/安裝 MySQl(8.0.41)  <br>
