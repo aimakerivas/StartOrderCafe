@@ -69,14 +69,14 @@
 |資料處理與轉型    |運算子       |三元運算子      |Boxing        |UnBoxing          |InitialValues   |  
 |System         |String       |trim          |LocalDateTime |java.lang         |java.util       |  <br>
 |Collections    |Array        |List          |ListArray     |Set/HashMap       |Stream          |  <br>
-
-
-<HR>
-
 |流程控制         |if-else     |Switch        |ForEach       |for(;;)            |while/do..while|  <br> 
 |Exception       |try/catch   |throws        |IO處理         |Annotation        |@Override      |  <br>
 |Class           |Object      |Instance      |UML Diagram   |Object Injection  |               |  <br>
 |Extends         |Abstracts    |Interface    |Implements    |Overload          |Serializable   |  <br>
+
+<HR>
+
+
 |Static          |Final        |Public       |Private       |Protected         |Default        |  <br>
 |Attribute       |Construct    |Method       |匿名函數＆Lambda|getter/setter     |toString       |  <br>
 |多工處理         |Thread       |Run          |Start          |Syncronize       |Time            |  <br>
