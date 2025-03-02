@@ -67,9 +67,6 @@
 |Design Patterns |物件導向     |MVC           |DAO           |Maven/pom.xml     |JDBC            |
 |:--             |:--:        |:--:          |:--:          |:--:              |--:             |
 |資料處理與轉型    |運算子       |三元運算子      |Boxing        |UnBoxing          |InitialValues   |  
-
-<HR>
-
 |System         |String       |trim          |LocalDateTime |java.lang         |java.util       |  <br>
 |Collections    |Array        |List          |ListArray     |Set/HashMap       |Stream          |  <br>
 |流程控制         |if-else     |Switch        |ForEach       |for(;;)            |while/do..while|  <br> 
@@ -77,6 +74,10 @@
 |Class           |Object      |Instance      |UML Diagram   |Object Injection  |               |  <br>
 |Extends         |Abstracts    |Interface    |Implements    |Overload          |Serializable   |  <br>
 |Static          |Final        |Public       |Private       |Protected         |Default        |  <br>
+
+<HR>
+
+
 |Attribute       |Construct    |Method       |匿名函數＆Lambda|getter/setter     |toString       |  <br>
 |多工處理         |Thread       |Run          |Start          |Syncronize       |Time            |  <br>
 |SQL             |Schema       |Export/Import|Dump/Restore   |Join Left/Right  |java.sql        |  <br>
