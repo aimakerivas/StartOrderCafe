@@ -64,28 +64,29 @@
     + user="xxxxxx"  <br>
     + password="xxxxyyyy"  <br>
 #### 4.學習單元  <br>
-|Design Patterns |MVC         |DAO          |Collections   |Larmbda            |Maven/pom.xml    |
-|:--             |:--:        |:--:         |:--:          |:--:               |--:              | 
-|資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
-|List            |Stream      |Collections  |IO處理         |Annotation         |                 |  <br>
-|Exception Handle|try/catch   |throws|      |              |                   |                 |  <br>
-|物件導向         |Object      |Instance      |UML Diagram   |Object Injection   |                |  <br>
-|Class          |Extends      |Abstracts     |Interface     |Implements         |Scope           |  <br>
-|Static         |Final        |Public        |Private       |Protected          |Default         |  <br>
-|多工處理        |Thread       |Run           |Start          |Syncronize        |Time            |  <br>
-|Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter      |toString        |  <br>
-|Array           |List         |HashMap      |Collection     |Set               |Directory       |  <br>
-|Boxing          |UnBoxing     |Initial      |toString       |LocalDateTime     |Event           |  <br>
-|SQL             |Schema       |Export       |import         |Join Left/Right   |                |  <br>
-|JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement |ResultSet       |  <br>
-|iOFile          |OutputFile   |InputFile    |OutputStream   |InputStream       |Seriaziable     |  <br>
-|WindowBuilder UI|JSwing       |AWT          |Regrex         |JFrame            |Window          |  <br>
-|JContentPanel   |JPanel       |JLayout      |JGridLayout    |JBoaderLayout     |JScroll         |  <br>
-|BorderLayout    |FlowLayout   |GridLayout   |JGridLayout    |JBoaderLayout     |JScroll         |  <br>
-|JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image           |  <br>
-|print           |PDF          |CSV          |Excel          |Word               |PPT            |  <br>
-|JFreeChart      |Bar          |Pi           |Line           |                   |               |  <br>
-|HashCode        |Annotation   |@Override    |               |                   |               |  <br>
+|Design Patterns |物件導向     |MVC           |DAO           |Maven/pom.xml     |JDBC            |
+|:--             |:--:        |:--:          |:--:          |:--:              |--:             | 
+|資料處理與轉型    |運算子       |三元運算子      |Boxing        |UnBoxing          |InitialValues   |  <br>
+|System         |String       |trim          |LocalDateTime |java.lang         |java.util       |  <br>
+|Collections    |Array        |List          |ListArray     |Set/HashMap       |Stream          |  <br>
+|流程控制         |if-else     |Switch        |ForEach       |for(;;)            |while/do..while|  <br> 
+|Exception       |try/catch   |throws        |IO處理         |Annotation        |@Override      |  <br>
+|Class           |Object      |Instance      |UML Diagram   |Object Injection  |               |  <br>
+|Extends         |Abstracts    |Interface    |Implements    |Overload          |Serializable   |  <br>
+|Static          |Final        |Public       |Private       |Protected         |Default        |  <br>
+|Attribute       |Construct    |Method       |匿名函數＆Lambda|getter/setter     |toString       |  <br>
+|多工處理         |Thread       |Run          |Start          |Syncronize       |Time            |  <br>
+|SQL             |Schema       |Export/Import|Dump/Restore   |Join Left/Right  |java.sql        |  <br>
+|JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement|ResultSet       |  <br>
+|iOFile          |OutputFile   |InputFile    |OutputStream   |InputStream      |cookieFile      |  <br>
+|WindowBuilder(UI)|Swing       |AWT          |Regrex         |Eclipse/Plug-in  |                |  <br>
+|Window          |JFrame       |JContentPanel|JScroll        |JPanel           |JGridLayout     |  <br>
+|Layout          |BorderLayout |FlowLayout   |JGridLayout    |JBoaderLayout     |JScroll        |  <br>
+|JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image          |  <br>
+|print           |PDF          |CSV          |Excel          |Word              |PPT            |  <br>
+|JFreeChart      |Bar          |Pi           |Line           |                  |               |  <br>
+|HashCode        |Annotation   |@Override    |               |                  |               |  <br>
+
 <HR>
 
 #### 附錄  <br>
