@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe6039ae-64be-461a-b558-da81314cde59) 咖啡點餐系統 - Java課程教學練習    <br>
+#![image](https://github.com/user-attachments/assets/fe6039ae-64be-461a-b558-da81314cde59) 咖啡點餐系統 - Java課程教學練習    <br>
 + [1.簡介](#1簡介--)  <br>
   + [1-1.課程目標說明](#1-1課程目標說明--)  <br>
   + [1-2.系統功能需求說明(Mac)](#1-2系統功能需求說明--)  <br>
