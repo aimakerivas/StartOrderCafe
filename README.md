@@ -185,7 +185,6 @@
 |010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||  <br>
 |011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
 
-
 <HR>
 
   + 系統服務功能及後台管理  <br>
@@ -205,7 +204,7 @@
 |9210|系統|後台管理|完整的後台監控/告警/管理機制|摘要/設計概念<br>範例||||  <br>
 
 <HR>
-### 待完成  <br>
+#### 待完成  <br>
 
 + 1.New Add Tables(已完成)  <br>
   + Employee  <br>
