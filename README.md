@@ -8,7 +8,7 @@
 + [使用方法](#3使用方法--)  <br>
 + [學習單元(#Tag)](#4學習單元--)  <br>
 + [附錄](#附錄--)  <br>
-  + [專案說明文件](#a專案說明文件--)  <br>
+  + [專案設計概念說明](#a專案設計概念說明--)  <br>
   + [相關工具下載安裝](#c相關工具下載安裝--)  <br>
   + [Ｍaven自動下載第3方JAR檔設定](#dＭaven自動下載第3方JAR設定--)  <br>
   + [參考資訊](#b參考資訊--)  <br>
@@ -67,18 +67,18 @@
     + user="xxxxxx"  <br>
     + password="xxxxyyyy"  <br>
 #### 4.學習單元  <br>
-|Design Pattern  |MVC         |DAO          |Flow Chart    |Iteration          |Maven/pom.xml    |
-|:--             |:--:        |:--:         |:--:          |:--:                |--:             | 
+|Design Patterns |MVC         |DAO          |Collections   |Larmbda            |Maven/pom.xml    |
+|:--             |:--:        |:--:         |:--:          |:--:               |--:              | 
 |資料處理與轉型    |運算子       |流程控制       |if-else       |Switch             |ForEach          |  <br> 
 |List            |Stream      |Collections  |IO處理         |Annotation         |                 |  <br>
-|Exception Handle|try/catch   |throws|      |              |                    |                |  <br>
+|Exception Handle|try/catch   |throws|      |              |                   |                 |  <br>
 |物件導向         |Object      |Instance      |UML Diagram   |Object Injection   |                |  <br>
 |Class          |Extends      |Abstracts     |Interface     |Implements         |Scope           |  <br>
 |Static         |Final        |Public        |Private       |Protected          |Default         |  <br>
 |多工處理        |Thread       |Run           |Start          |Syncronize        |Time            |  <br>
 |Attribute      |Construct    |Method        |匿名函數＆Lambda|gwtter/setter      |toString        |  <br>
 |Array           |List         |HashMap      |Collection     |Set               |Directory       |  <br>
-|Boxing          |UnBoxing     |Initial      |toString       |LocalDateTime     |Event          |  <br>
+|Boxing          |UnBoxing     |Initial      |toString       |LocalDateTime     |Event           |  <br>
 |SQL             |Schema       |Export       |import         |Join Left/Right   |                |  <br>
 |JDBC            |Class.forName|Connection   |DriverManager  |PreparedStatement |ResultSet       |  <br>
 |iOFile          |OutputFile   |InputFile    |OutputStream   |InputStream       |Seriaziable     |  <br>
@@ -87,13 +87,14 @@
 |BorderLayout    |FlowLayout   |GridLayout   |JGridLayout    |JBoaderLayout     |JScroll         |  <br>
 |JPasswordField  |JTextField   |JTextArea    |JLabel         |JButton           |Image           |  <br>
 |print           |PDF          |CSV          |Excel          |Word               |PPT            |  <br>
-|JFreeChart      |Bar          |Pi           |               |                   |               |  <br>
+|JFreeChart      |Bar          |Pi           |Line           |                   |               |  <br>
 |HashCode        |Annotation   |@Override    |               |                   |               |  <br>
 <HR>
 
 ### 附錄  <br>
-#### A.專案說明文件  <br>
-#### DAO/MVC設計概念 (初學者階梯學習)
+#### A.專案設計概念說明: MVC/DAO/Maven/O.O./ER/RDB/JDBC/Collections  <br>
+#### DAO/MVC/Marven/JDBC/ER設計概念 (初學者階梯學習)
+#### 資料處理/HashMap/List/Stream/Model/Injection/ForEach (初學者階梯學習)
 + 1.初步分析需求規格
 + 2.Create Database by ER Model: MySQL Workbench EER
    + 建立Data所需Tables (可詢問ChatGPT使用步驟)
@@ -127,7 +128,7 @@
      + ChatUI
      + Log/AccessTrackingUI
      + ExceptionHandleUI
-+ Create Java Utilities
++ 11.Create Java Utilities
    + DbConnect
    + AutoGenJavaModelFromDB
    + IOFileAccess(Write,Read)
