@@ -65,8 +65,10 @@
     + password="xxxxyyyy"  <br>
 #### 4.學習單元  <br>
 |Design Patterns |物件導向     |MVC           |DAO           |Maven/pom.xml     |JDBC            |
-|:--             |:--:        |:--:          |:--:          |:--:              |--:             | 
+|:--             |:--:        |:--:          |:--:          |:--:              |--:             |
 |資料處理與轉型    |運算子       |三元運算子      |Boxing        |UnBoxing          |InitialValues   |  
+
+<HR>
 
 |System         |String       |trim          |LocalDateTime |java.lang         |java.util       |  <br>
 |Collections    |Array        |List          |ListArray     |Set/HashMap       |Stream          |  <br>
