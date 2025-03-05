@@ -158,57 +158,8 @@
 + [UML(Unified Modeling Language)](https://zh.wikipedia.org/zh-tw/%E7%BB%9F%E4%B8%80%E5%BB%BA%E6%A8%A1%E8%AF%AD%E8%A8%80)   <br>
 + [MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)  <br>
 ##### E.ChatGPT程式開發輔助範例  <br>
-  + 技術單元  <br>
-|No.|技術主題|技術單元     |CodeGenType      |Promp Request                                                  |內容連結|範例連結|Notes|
-|:--|:--:          |:--:        |:--:            |:--                                                            |:--:   |:--:   |--:  | 
-|000|ObjectOriented|(議題列表)   |簡介             |What's ObjectOriented?                                         |       |       |     |  <br>
-|001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
-|   |Dao    |Dao         |完整範例          |provide Java Dao example.   |xxxx       |xxxx      |     |  <br>
-|   |Dao    |Data<br>Schema Export<br>|範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
-|   |Dao    |DaoModel    |範例             |provide Java Dao model example. (reference csv data)        |||| 
-|   |Dao    |DaoInterface|範例             |provide Java Dao interface example.(reference Dao model)    ||||
-|   |Dao    |DaoImpl     |範例             |provide Java Dao implement example.(reference Dao interface)||||
-|002|MVC    |Model       |簡介             |What's MVC?||||
-|   |MVC    |Model       |範例             |provide MVC example||||
-|003|UI/JFrame|Login/Register UI|範例|provide Java example of LoginUI/RegisterUI/Regrex/Captcha/passEncrypt||||  <br>
-|   |UI/JFrame|LoginUI|範例|provide Java example of LoginUI/LoginSucessUI/LoginErrorUI/Regrex/Captcha/passEncrypt||||  <br>
-|   |UI/JFrame|RegisterUI|範例 |provide Java example of RegisterUI&SucessUI&ErrorUI/Regrex/Captcha/passEncrypt||||  <br>
-|   |驗證碼|Captcha   |範例 |provide Java example of captcha(include regen function when press recycle-button) ||||  <br>
-|   |表示式檢驗 |Regrex    |範例 |provide Java example of JTextField regrex||||  <br>
-|   |密碼隱碼  |JPasswordTextField     |範例 |provide Java example of Login/password hidden||||  <br>
-|   |個資保護  |password Encrypt驗正機制|範例 |provide Java example of Login/password hidden with encrypt validation||||  <br>
-|004|Collections|List    |範例 |provide Java example of  List example||||  <br>
-|005|Collections|HashMap |簡介/範例|about Java HashSet ? and related methods? examples||||  <br>
-|   |Collections|HashMap |範例 |provide Java example of HashMap example||||  <br>
-|006|Swing |JTable       |範例 |provide Java example of JTable example||||  <br>
-|007|Swing |print        |範例 |provide Java example of Swing/JFrame/Print||||  <br>
-|008|Report|Excel        |範例 |provide Java example of excel report example||||  <br>
-|009|Chart |JFreeChart   |範例 |provide Java example of JFreeChart/PiChart,BarChart example||||  <br>
-|010|JDBC|DbConnectByJDBC|範例|provide Java JDBC DbConnection example||||  <br>
-|011|JDBC|Class.forName|介紹/範例|What's Class.forName?||||  <br>
 
-<HR>
-
-  + 系統服務功能及後台管理  <br>
-
-|No.|主題     |模組      |功能服務              |CodeGenType         |Promp Request           |內容連結|範例連結|
-|:--|:--:    |:--:      |:--                 |:--:                |:--                    |:--:                  |--:                  |
-|9011|系統|服務功能|角色身份別登入機制|摘要/設計概念<br>範例|請規劃功能依角色授權檢查機制,有授權的功能才可以執行,另有功能授權角色及帳號配置角色,請提供Java Application範例|||  |<br>
-|9012|系統    |服務功能   |完整的功能/角色/帳號授權機制|摘要/設計概念<br>範例|請提供一個完整的 Java Maven Application+ MySQL 的 角色授權機制，<br>包含 功能 (fun1 ~ fun10) 的 TaskPermission 機制，<br>並將 角色 (Role) 和用戶帳號 (UserAccount) 配置到資料庫 (StartOrderCafeDB)。<br>系統設計概念:<br>1. 功能 ：<br>    * 功能 (Function): 例如 fun1 ~ fun10,對應到 TaskPermission<br>    * 權限 (TaskPermission): 定義可執行的功能,每個功能都有相對應的 Permission<br>    * 角色 (Role): 角色包含多個 Permission(包含多個 TaskPermission)<br>    * 帳號 (UserAccount): 帳號可擁有一個或多個角色(可擁有一個或多個 Role)<br>    * 授權機制 (AuthorizationService): 驗證帳號是否有執行該功能的權限<br>2. 資料庫 (StartOrderCafeDB)<br>    * Role (角色)<br>    * UserAccount (用戶)<br>    * TaskPermission (功能權限)<br>    * role_task_permissions (角色與權限對應)<br>    * user_roles (用戶與角色對應)<br>3. DAO 層 (Database Access Object)<br>    * 建立Dao Interface<br>    * 建立Dao Implements<br>4. DAO 服務層 (面對UI/Controller,DAO層及商業服務邏輯處理)<br>    * 建立Service Dao Interface<br>    * 建立Service Dao Implement<br>5. MVC 設計模式<br>6. JDBC 進行 DB 連線<br>    * Role (角色)<br>    * 提供maven pom.xml 設定MySQL8.0.xx Connect 參數<br>    * 提供util.DbConnect.getDb2()連接至DB Schema:StartOrderCafe<br>    * 提供util.DbConnect.getDb3()連接至DB Schema:TestStartOrderCafe<br>|||  <br>      
-|9020|Service|服務功能|完整的登入/註冊機制<br>+ Email認證檢核機制<br>+ 忘記密碼/檢核/通知/重置機制<br>|摘要/設計概念/範例||||  <br>
-|9030|Service|服務功能|完整的訂單機制|摘要/設計概念<br>範例||||  <br>
-|9100|CSS|後台客服查詢|完整的後台客服查詢<br>範例||||  <br>
-|9210|PM|服務管理|完整的產品管理機制|摘要/設計概念<br>範例||||  <br>
-|9220|PM|服務管理|完整的進貨/備料/庫存管理機制|摘要/設計概念<br>範例||||  <br>
-|9230|PM|服務管理|完整的報表機制|摘要/設計概念<br>範例||||  <br>
-|9240|PM|服務管理|完整的圖表分析管理機制|摘要/設計概念<br>範例||||  <br>
-|9300|FA|服務財務管理|完整的財務會科管理機制|摘要/設計概念<br>範例||||  <br>
-|9410|OAM|後台OA&M管理|完整的角色權限管理機制|摘要/設計概念<br>範例||||  <br>
-|9420|OAM|後台OA&M管理|完整的後台設定管理<br>範例||||  <br>
-|9430|OAM|後台OA&M管理|完整的後台監控/告警/管理機制|摘要/設計概念<br>範例||||  <br>
-|9440|OAM|後台OA&M管理|ExceptionHandle<br>範例||||  <br>
-
-<HR>
+  
  
 #### 待完成  <br>
 
