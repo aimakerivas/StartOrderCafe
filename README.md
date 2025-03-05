@@ -160,8 +160,8 @@
 ##### E.ChatGPT程式開發輔助範例  <br>
   + 技術單元  <br>
 |No.|技術主題|技術單元     |CodeGenType      |Promp Request                                                  |內容連結|範例連結|Notes|
-|:--|:--:   |:--:        |:--:            |:--------------------------------------------------------------------------|:--:                  |:--:                  |--:  | 
-|000|ObjectOriented|(議題列表)|簡介         |What's ObjectOriented?                                                   ..|......................|......................|     |  <br>
+|:--|:--:          |:--:        |:--:            |:--                                                            |:--:   |:--:   |--:  | 
+|000|ObjectOriented|(議題列表)   |簡介             |What's ObjectOriented?                                         |       |       |     |  <br>
 |001|Dao    |Dao         |簡介             |What's Dao?                 |xxxx       |xxxx      |     |  <br>
 |   |Dao    |Dao         |完整範例          |provide Java Dao example.   |xxxx       |xxxx      |     |  <br>
 |   |Dao    |Data<br>Schema Export<br>|範例|provide export data CSV file(from MySQL Schema:testDb,Table:member).|||| 
